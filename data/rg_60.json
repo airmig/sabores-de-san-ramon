@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Restaurante CASONA del PEREZOSO",
+    "url": "https://restaurantguru.com/Restaurante-CASONA-del-PEREZOSO-San-Ramon-Alajuela-Province",
+    "type": "Restaurant, Cafe, Seafood, Pizzeria",
+    "rating": "4.8",
+    "votes": "319 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Katana's Restaurante",
+    "url": "https://restaurantguru.com/Katanas-Restaurante-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "4.8",
+    "votes": "296 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Ola Ola • San Ramón",
+    "url": "https://restaurantguru.com/Restaurante-Ola-Ola-San-Ramon-Alajuela-Province",
+    "type": "Restaurant, Seafood",
+    "rating": "4.8",
+    "votes": "890 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Papi Parrillero",
+    "url": "https://restaurantguru.com/Papi-Parrillero-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "4.8",
+    "votes": "274 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Green Garden Trattoria",
+    "url": "https://restaurantguru.com/Green-Garden-San-Ramon-Alajuela-Province-2",
+    "type": "Restaurant, Pizzeria, Vegetarian, Italian",
+    "rating": "4.8",
+    "votes": "497 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Marisqueria El Kraken Dorado",
+    "url": "https://restaurantguru.com/Marisqueria-El-Kraken-Dorado-San-Ramon-Alajuela-Province",
+    "type": "Restaurant, Seafood",
+    "rating": "4.8",
+    "votes": "147 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Restaurante Han Bin",
+    "url": "https://restaurantguru.com/Restaurante-Han-Bin-San-Ramon-Alajuela-Province",
+    "type": "Restaurant, Chinese",
+    "rating": "4.5",
+    "votes": "244 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Restaurante y Cerveceria Dimension Brewing Co.",
+    "url": "https://restaurantguru.com/Restaurante-y-Cerveceria-Dimension-Brewing-Co-San-Ramon-Alajuela-Province",
+    "type": "Restaurant, Pub & bar, Beer bar, Pizzeria",
+    "rating": "4.4",
+    "votes": "136 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Kami Sushi Expres",
+    "url": "https://restaurantguru.com/Kami-Sushi-Expres-San-Ramon-Alajuela-Province",
+    "type": "Sushi, Restaurant",
+    "rating": "4.2",
+    "votes": "323 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Cevichera de Yali",
+    "url": "https://restaurantguru.com/Cevichera-de-Yali-San-Ramon-Alajuela-Province",
+    "type": "Restaurant, Seafood",
+    "rating": "4",
+    "votes": "94 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Bar la Montaña",
+    "url": "https://restaurantguru.com/Bar-la-Montana-San-Ramon-Alajuela-Province",
+    "type": "Restaurant, Pub & bar, Fast food",
+    "rating": "3.9",
+    "votes": "90 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Restaurante Rancho San Rafael",
+    "url": "https://restaurantguru.com/Restaurante-Rancho-San-Rafael-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "3.8",
+    "votes": "38 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Office Bar & Rest",
+    "url": "https://restaurantguru.com/Office-Bar-and-Rest-San-Ramon-Alajuela-Province",
+    "type": "Pub & bar, Restaurant, BBQ",
+    "rating": "3.8",
+    "votes": "80 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Subway • San Ramón",
+    "url": "https://restaurantguru.com/Subway-San-Ramon-San-Ramon-Alajuela-Province",
+    "type": "Restaurant, Fast food",
+    "rating": "3.8",
+    "votes": "244 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Delicias del Mar",
+    "url": "https://restaurantguru.com/Delicias-Del-Mar-San-Ramon-Alajuela-Province",
+    "type": "Seafood, Restaurant",
+    "rating": "3.7",
+    "votes": "1100 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Restaurante y Bar Sala Kuarta",
+    "url": "https://restaurantguru.com/Restaurante-y-Bar-Sala-Kuarta-San-Ramon-Alajuela-Province",
+    "type": "Restaurant, Pub & bar",
+    "rating": "3.7",
+    "votes": "37 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Soda eliette",
+    "url": "https://restaurantguru.com/Soda-eliette-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "3.7",
+    "votes": "42 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Bocaditos",
+    "url": "https://restaurantguru.com/Bocaditos-San-Ramon-Alajuela-Province",
+    "type": "Restaurant, Pub & bar",
+    "rating": "4.5",
+    "votes": "423 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Soda Katy",
+    "url": "https://restaurantguru.com/Soda-Katy-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "3.6",
+    "votes": "103 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Restaurante peruano Nazca",
+    "url": "https://restaurantguru.com/Restaurante-peruano-Nazca-San-Ramon-Alajuela-Province",
+    "type": "Peruvian restaurant",
+    "rating": "3.6",
+    "votes": "425 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Soda La Porteña",
+    "url": "https://restaurantguru.com/Soda-La-Portena-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "3.5",
+    "votes": "80 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Pizza Hut",
+    "url": "https://restaurantguru.com/Pizza-Hut-San-Ramon-Alajuela-Province",
+    "type": "Pizzeria, Fast food, Restaurant",
+    "rating": "4.8",
+    "votes": "385 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "BAR RESTAURANTE LOS AMIGOS",
+    "url": "https://restaurantguru.com/BAR-RESTAURANTE-LOS-AMIGOS-San-Ramon-Alajuela-Province",
+    "type": "Restaurant, Pub & bar",
+    "rating": "3.4",
+    "votes": "103 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Nanas' Coffee and kitchen",
+    "url": "https://restaurantguru.com/Restaurante-y-Cafeteria-Nanas-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "3.4",
+    "votes": "35 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "ARAYA'S RESTAURANTE",
+    "url": "https://restaurantguru.com/Arayas-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "3.4",
+    "votes": "21 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Soda El Angel",
+    "url": "https://restaurantguru.com/Soda-El-Angel-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "3.4",
+    "votes": "31 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Kapricho Sweet",
+    "url": "https://restaurantguru.com/Kapricho-Sweet-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "3.7",
+    "votes": "18 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Soda Carmensita",
+    "url": "https://restaurantguru.com/Soda-Carmensita-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "3.4",
+    "votes": "43 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Chiniticos San Ramon",
+    "url": "https://restaurantguru.com/Chiniticos-San-Ramon-San-Ramon-Alajuela-Province",
+    "type": "Asian restaurant",
+    "rating": "3.4",
+    "votes": "117 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Soda Doña Luisa",
+    "url": "https://restaurantguru.com/Soda-Dona-Luisa-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "3.3",
+    "votes": "68 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Tribu 506 Restaurant",
+    "url": "https://restaurantguru.com/Tribu-506-Restaurant-San-Ramon-Alajuela-Province",
+    "type": "Restaurant, Pub & bar",
+    "rating": "3.3",
+    "votes": "777 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Pizza Buty's San Ramón",
+    "url": "https://restaurantguru.com/Pizza-Butys-San-Ramon-San-Ramon-Alajuela-Province",
+    "type": "Pizzeria, Restaurant",
+    "rating": "3.2",
+    "votes": "27 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Soda la ventanita De Jeanneth",
+    "url": "https://restaurantguru.com/Soda-la-ventanita-De-Jeanneth-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "3.2",
+    "votes": "24 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Modesty Comida Caribeña con sabor unico",
+    "url": "https://restaurantguru.com/Modesty-Comida-Caribena-con-sabor-unico-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "3.2",
+    "votes": "39 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Tostao Ventanita Colombiana",
+    "url": "https://restaurantguru.com/Tostao-Ventanita-Colombiana-San-Ramon-Alajuela-Province",
+    "type": "Colombian restaurant",
+    "rating": "3.2",
+    "votes": "12 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Chichacaldositicas",
+    "url": "https://restaurantguru.com/Chichacaldositicas-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "3.2",
+    "votes": "11 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "LA RECTA DEL MAIZ",
+    "url": "https://restaurantguru.com/LA-RECTA-DEL-MAIZ-San-Ramon-Alajuela-Province",
+    "type": "Restaurant, Pub & bar",
+    "rating": "3.2",
+    "votes": "136 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Super Pollo",
+    "url": "https://restaurantguru.com/Super-Pollo-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "3.2",
+    "votes": "28 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Restaurante el Establo",
+    "url": "https://restaurantguru.com/Restaurante-el-Establo-San-Ramon-Alajuela-Province-2",
+    "type": "Restaurant, BBQ, Steakhouse",
+    "rating": "3.2",
+    "votes": "769 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "El Bohío Cubano Bar restaurante",
+    "url": "https://restaurantguru.com/El-Bohio-Cubano-Bar-restaurante-San-Ramon-Alajuela-Province",
+    "type": "Pub & bar, Restaurant",
+    "rating": "3.2",
+    "votes": "48 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Savory a la Thai",
+    "url": "https://restaurantguru.com/CRAVE-By-Savory-a-la-Thai-San-Ramon-Alajuela-Province",
+    "type": "Thai restaurant",
+    "rating": "3.2",
+    "votes": "528 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "La Esquina de Quillo- Bar & Marisquería",
+    "url": "https://restaurantguru.com/La-Esquina-de-Quillo-Bar-and-Marisqueria-San-Ramon-Alajuela-Province",
+    "type": "Pub & bar, Seafood, Restaurant",
+    "rating": "3",
+    "votes": "32 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Restaurante Los Barriles San Ramon",
+    "url": "https://restaurantguru.com/Restaurante-Los-Barriles-San-Ramon-San-Ramon-Alajuela-Province",
+    "type": "Restaurant, BBQ, Pub & bar",
+    "rating": "3",
+    "votes": "56 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "TATO FUSION & GRILL",
+    "url": "https://restaurantguru.com/TATO-FUSION-and-GRILL-San-Ramon-Alajuela-Province",
+    "type": "Restaurant, BBQ",
+    "rating": "2.9",
+    "votes": "22 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Restaurante Kalhua's",
+    "url": "https://restaurantguru.com/Kalhuas-San-Rafael-5",
+    "type": "Restaurant, Pub & bar",
+    "rating": "2.9",
+    "votes": "497 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Pizza papatonis San Ramón",
+    "url": "https://restaurantguru.com/Pizza-papatonis-San-Ramon-San-Ramon-Alajuela-Province",
+    "type": "Pizzeria, Restaurant",
+    "rating": "4",
+    "votes": "145 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "El Zafiro",
+    "url": "https://restaurantguru.com/El-Zafiro-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "2.7",
+    "votes": "428 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Good Boys Bar Restaurante",
+    "url": "https://restaurantguru.com/Good-Boys-Bar-Restaurante-San-Ramon-Alajuela-Province",
+    "type": "Pub & bar, Restaurant, BBQ",
+    "rating": "2.7",
+    "votes": "44 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Pizzeria Capricho",
+    "url": "https://restaurantguru.com/Pizzeria-Capricho-San-Ramon-Alajuela-Province",
+    "type": "Pizzeria, Restaurant",
+    "rating": "3.9",
+    "votes": "82 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "El Loco Street Food",
+    "url": "https://restaurantguru.com/Restaurante-Loco-Lizard-Santiago-District-2",
+    "type": "Restaurant",
+    "rating": "2.6",
+    "votes": "98 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Pizza Olivera San Ramón",
+    "url": "https://restaurantguru.com/Pizza-Olivera-San-Ramon-San-Ramon-Alajuela-Province",
+    "type": "Pizzeria, Restaurant",
+    "rating": "3.7",
+    "votes": "239 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "El fogón Los abuelos",
+    "url": "https://restaurantguru.com/El-fogon-Los-abuelos-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "4.2",
+    "votes": "178 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Hamburguesas MarKony",
+    "url": "https://restaurantguru.com/Hamburguesas-MarKony-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "2.9",
+    "votes": "119 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Restaurante La Cura",
+    "url": "https://restaurantguru.com/Restaurante-La-Cura-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "2.5",
+    "votes": "27 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Ventanita china",
+    "url": "https://restaurantguru.com/Ventanita-china-San-Ramon-Alajuela-Province",
+    "type": "Fast food, Asian restaurant",
+    "rating": "3.7",
+    "votes": "70 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Delicia china el buen sabor",
+    "url": "https://restaurantguru.com/Delicia-china-el-buen-sabor-San-Ramon-Alajuela-Province",
+    "type": "Chinese, Chinese restaurant",
+    "rating": "2.5",
+    "votes": "17 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Rincón Chino San Ramón",
+    "url": "https://restaurantguru.com/Rincon-Chino-San-Ramon-San-Ramon-Alajuela-Province",
+    "type": "Asian restaurant",
+    "rating": "3.3",
+    "votes": "63 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Restaurante Cheper's",
+    "url": "https://restaurantguru.com/Restaurante-Chepers-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "2.4",
+    "votes": "135 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Los Tajos",
+    "url": "https://restaurantguru.com/Los-Tajos-San-Ramon-Alajuela-Province",
+    "type": "Restaurant",
+    "rating": "2.4",
+    "votes": "28 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  },
+  {
+    "name": "Sikan",
+    "url": "https://restaurantguru.com/Sikan-San-Ramon-Alajuela-Province",
+    "type": "Japanese restaurant, Sushi",
+    "rating": "2.3",
+    "votes": "58 votes",
+    "sched": "",
+    "cuisine": "",
+    "snippet": ""
+  }
+]

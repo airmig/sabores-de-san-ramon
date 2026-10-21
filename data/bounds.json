@@ -1,0 +1,1442 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-21T02:53:13Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 5366458,
+  "bounds": {
+    "minlat": 9.9203002,
+    "minlon": -84.4688790,
+    "maxlat": 10.0387114,
+    "maxlon": -84.3410111
+  },
+  "tags": {
+    "admin_level": "6",
+    "alt_name": "Cantón de Atenas",
+    "boundary": "administrative",
+    "description": "Atenas: como homenaje a la ciudad de Atenas, Grecia.",
+    "name": "Atenas",
+    "type": "boundary",
+    "wikidata": "Q2406261",
+    "wikipedia": "es:Cantón de Atenas"
+  }
+},
+{
+  "type": "relation",
+  "id": 5369889,
+  "bounds": {
+    "minlat": 9.9142447,
+    "minlon": -84.3679369,
+    "maxlat": 10.4137132,
+    "maxlon": -84.1611557
+  },
+  "tags": {
+    "admin_level": "6",
+    "alt_name": "Cantón de Alajuela",
+    "boundary": "administrative",
+    "description": "Alajuela: Proviene del nombre del río “La Lajuela”",
+    "name": "Alajuela",
+    "type": "boundary",
+    "wikidata": "Q2672761",
+    "wikipedia": "es:Cantón de Alajuela"
+  }
+},
+{
+  "type": "relation",
+  "id": 5459912,
+  "bounds": {
+    "minlat": 9.9142447,
+    "minlon": -84.3679369,
+    "maxlat": 9.9699085,
+    "maxlon": -84.2780008
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Turrúcares",
+    "postal_code": "20111",
+    "type": "boundary",
+    "wikidata": "Q4000714"
+  }
+},
+{
+  "type": "relation",
+  "id": 5459924,
+  "bounds": {
+    "minlat": 9.9638414,
+    "minlon": -84.3521138,
+    "maxlat": 10.0155987,
+    "maxlon": -84.2600204
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Garita",
+    "postal_code": "20113",
+    "type": "boundary",
+    "wikidata": "Q3820871"
+  }
+},
+{
+  "type": "relation",
+  "id": 5631382,
+  "bounds": {
+    "minlat": 10.0816865,
+    "minlon": -84.4758432,
+    "maxlat": 10.0928225,
+    "maxlon": -84.4637131
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "San Ramón",
+    "postal_code": "20201",
+    "type": "boundary",
+    "wikidata": "Q535835"
+  }
+},
+{
+  "type": "relation",
+  "id": 5631850,
+  "bounds": {
+    "minlat": 10.0916795,
+    "minlon": -84.4721260,
+    "maxlat": 10.1197548,
+    "maxlon": -84.4515457
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "San Juan",
+    "postal_code": "20203",
+    "type": "boundary",
+    "wikidata": "Q3947432"
+  }
+},
+{
+  "type": "relation",
+  "id": 5634030,
+  "bounds": {
+    "minlat": 10.0594903,
+    "minlon": -84.4657003,
+    "maxlat": 10.1065421,
+    "maxlon": -84.4336743
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "San Isidro",
+    "postal_code": "20207",
+    "type": "boundary",
+    "wikidata": "Q3947369"
+  }
+},
+{
+  "type": "relation",
+  "id": 5634273,
+  "bounds": {
+    "minlat": 10.0478459,
+    "minlon": -84.4385849,
+    "maxlat": 10.0626493,
+    "maxlon": -84.4268099
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Palmares",
+    "postal_code": "20701",
+    "type": "boundary",
+    "wikidata": "Q1759264"
+  }
+},
+{
+  "type": "relation",
+  "id": 5634388,
+  "bounds": {
+    "minlat": 10.0552741,
+    "minlon": -84.4499663,
+    "maxlat": 10.0857970,
+    "maxlon": -84.4136243
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Buenos Aires",
+    "postal_code": "20703",
+    "type": "boundary",
+    "wikidata": "Q3646515"
+  }
+},
+{
+  "type": "relation",
+  "id": 5640083,
+  "bounds": {
+    "minlat": 10.0666485,
+    "minlon": -84.5308664,
+    "maxlat": 10.1119913,
+    "maxlon": -84.4746201
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Alfaro",
+    "postal_code": "20209",
+    "type": "boundary",
+    "wikidata": "Q3611053"
+  }
+},
+{
+  "type": "relation",
+  "id": 5652525,
+  "bounds": {
+    "minlat": 9.9209834,
+    "minlon": -84.4688790,
+    "maxlat": 9.9919104,
+    "maxlon": -84.3821305
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Jesús",
+    "place": "district",
+    "postal_code": "20502",
+    "type": "boundary",
+    "wikidata": "Q3808182"
+  }
+},
+{
+  "type": "relation",
+  "id": 5652563,
+  "bounds": {
+    "minlat": 9.9764216,
+    "minlon": -84.4559156,
+    "maxlat": 10.0130803,
+    "maxlon": -84.4039631
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "San Isidro",
+    "postal_code": "20504",
+    "type": "boundary",
+    "wikidata": "Q3947360"
+  }
+},
+{
+  "type": "relation",
+  "id": 5652583,
+  "bounds": {
+    "minlat": 9.9751023,
+    "minlon": -84.4341583,
+    "maxlat": 9.9986083,
+    "maxlon": -84.3643542
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Mercedes",
+    "postal_code": "20503",
+    "type": "boundary",
+    "wikidata": "Q3854924"
+  }
+},
+{
+  "type": "relation",
+  "id": 5652615,
+  "bounds": {
+    "minlat": 9.9610542,
+    "minlon": -84.3962676,
+    "maxlat": 9.9968734,
+    "maxlon": -84.3410111
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Atenas",
+    "postal_code": "20501",
+    "type": "boundary",
+    "wikidata": "Q973817"
+  }
+},
+{
+  "type": "relation",
+  "id": 5652698,
+  "bounds": {
+    "minlat": 9.9258635,
+    "minlon": -84.4004582,
+    "maxlat": 9.9876748,
+    "maxlon": -84.3423517
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Concepción",
+    "postal_code": "20505",
+    "type": "boundary",
+    "wikidata": "Q3686040"
+  }
+},
+{
+  "type": "relation",
+  "id": 5652716,
+  "bounds": {
+    "minlat": 9.9203002,
+    "minlon": -84.4575572,
+    "maxlat": 9.9694430,
+    "maxlon": -84.3945284
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Escobal",
+    "postal_code": "20508",
+    "type": "boundary",
+    "wikidata": "Q61677913"
+  }
+},
+{
+  "type": "relation",
+  "id": 5652724,
+  "bounds": {
+    "minlat": 9.9922906,
+    "minlon": -84.4295226,
+    "maxlat": 10.0387114,
+    "maxlon": -84.3806960
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "San José",
+    "postal_code": "20506",
+    "type": "boundary",
+    "wikidata": "Q3947402"
+  }
+},
+{
+  "type": "relation",
+  "id": 5652734,
+  "bounds": {
+    "minlat": 9.9929436,
+    "minlon": -84.3964650,
+    "maxlat": 10.0387114,
+    "maxlon": -84.3514473
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Santa Eulalia",
+    "postal_code": "20507",
+    "type": "boundary",
+    "wikidata": "Q3949009"
+  }
+},
+{
+  "type": "relation",
+  "id": 5654789,
+  "bounds": {
+    "minlat": 10.0073829,
+    "minlon": -84.4699325,
+    "maxlat": 10.0857970,
+    "maxlon": -84.4047557
+  },
+  "tags": {
+    "admin_level": "6",
+    "alt_name": "Cantón de Palmares",
+    "boundary": "administrative",
+    "description": "Palmares: por la abundancia de palmeras.",
+    "name": "Palmares",
+    "type": "boundary",
+    "wikidata": "Q2610139",
+    "wikipedia": "es:Cantón de Palmares"
+  }
+},
+{
+  "type": "relation",
+  "id": 5654823,
+  "bounds": {
+    "minlat": 10.0130803,
+    "minlon": -84.4352316,
+    "maxlat": 10.0376925,
+    "maxlon": -84.4047557
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Candelaria",
+    "postal_code": "20705",
+    "type": "boundary",
+    "wikidata": "Q3655173"
+  }
+},
+{
+  "type": "relation",
+  "id": 5654913,
+  "bounds": {
+    "minlat": 10.0411376,
+    "minlon": -84.4604767,
+    "maxlat": 10.0702605,
+    "maxlon": -84.4369865
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "La Granja",
+    "postal_code": "20707",
+    "type": "boundary",
+    "wikidata": "Q3775740"
+  }
+},
+{
+  "type": "relation",
+  "id": 5654917,
+  "bounds": {
+    "minlat": 10.0407399,
+    "minlon": -84.4289762,
+    "maxlat": 10.0738785,
+    "maxlon": -84.4074448
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Esquipulas",
+    "postal_code": "20706",
+    "type": "boundary",
+    "wikidata": "Q3733257"
+  }
+},
+{
+  "type": "relation",
+  "id": 5654926,
+  "bounds": {
+    "minlat": 10.0073829,
+    "minlon": -84.4687286,
+    "maxlat": 10.0360992,
+    "maxlon": -84.4295226
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Santiago",
+    "postal_code": "20704",
+    "type": "boundary",
+    "wikidata": "Q3949384"
+  }
+},
+{
+  "type": "relation",
+  "id": 5657009,
+  "bounds": {
+    "minlat": 10.0153106,
+    "minlon": -84.4699325,
+    "maxlat": 10.0524638,
+    "maxlon": -84.4121297
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Zaragoza",
+    "postal_code": "20702",
+    "type": "boundary",
+    "wikidata": "Q931674"
+  }
+},
+{
+  "type": "relation",
+  "id": 5657065,
+  "bounds": {
+    "minlat": 10.0483486,
+    "minlon": -84.3622467,
+    "maxlat": 10.2768662,
+    "maxlon": -84.2265466
+  },
+  "tags": {
+    "admin_level": "6",
+    "alt_name": "Cantón de Sarchí",
+    "boundary": "administrative",
+    "description": "Sarchí: Originalmente, llamado Valverde Vega en honor a Dr. Carlos Luis Valverde Vega, primer mártir de la Segunda República y médico distinguido.\nActualmente, proviene de la palabra huetar “Xarshí” que significa “campo abierto”.",
+    "name": "Sarchí",
+    "old_name": "Valverde Vega",
+    "type": "boundary",
+    "wikidata": "Q2610105",
+    "wikipedia": "es:Cantón de Sarchí"
+  }
+},
+{
+  "type": "relation",
+  "id": 5657078,
+  "bounds": {
+    "minlat": 10.1692611,
+    "minlon": -84.3522720,
+    "maxlat": 10.2768662,
+    "maxlon": -84.2265466
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Toro Amarillo",
+    "postal_code": "21203",
+    "type": "boundary",
+    "wikidata": "Q3995014"
+  }
+},
+{
+  "type": "relation",
+  "id": 5720555,
+  "bounds": {
+    "minlat": 9.8640405,
+    "minlon": -84.7403770,
+    "maxlat": 10.1276918,
+    "maxlon": -84.5531131
+  },
+  "tags": {
+    "admin_level": "6",
+    "alt_name": "Cantón de Esparza",
+    "boundary": "administrative",
+    "name": "Esparza",
+    "type": "boundary",
+    "wikidata": "Q2610122",
+    "wikipedia": "es:Cantón de Esparza"
+  }
+},
+{
+  "type": "relation",
+  "id": 5721053,
+  "bounds": {
+    "minlat": 9.9398151,
+    "minlon": -84.6601617,
+    "maxlat": 10.0291765,
+    "maxlon": -84.5531131
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "San Rafael",
+    "postal_code": "60204",
+    "type": "boundary",
+    "wikidata": "Q3947869"
+  }
+},
+{
+  "type": "relation",
+  "id": 5721057,
+  "bounds": {
+    "minlat": 9.9472510,
+    "minlon": -84.6816285,
+    "maxlat": 9.9934783,
+    "maxlon": -84.6250730
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "San Juan Grande",
+    "postal_code": "60202",
+    "type": "boundary",
+    "wikidata": "Q3947435"
+  }
+},
+{
+  "type": "relation",
+  "id": 5721061,
+  "bounds": {
+    "minlat": 9.9844412,
+    "minlon": -84.6598700,
+    "maxlat": 10.0471634,
+    "maxlon": -84.5724453
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Macacona",
+    "postal_code": "60203",
+    "type": "boundary",
+    "wikidata": "Q3841930"
+  }
+},
+{
+  "type": "relation",
+  "id": 5721063,
+  "bounds": {
+    "minlat": 10.0151229,
+    "minlon": -84.6934024,
+    "maxlat": 10.1276918,
+    "maxlon": -84.6178251
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "San Jerónimo",
+    "postal_code": "60205",
+    "type": "boundary",
+    "wikidata": "Q3947377"
+  }
+},
+{
+  "type": "relation",
+  "id": 5722749,
+  "bounds": {
+    "minlat": 9.9063051,
+    "minlon": -84.6683512,
+    "maxlat": 10.0148028,
+    "maxlon": -84.4521481
+  },
+  "tags": {
+    "admin_level": "6",
+    "alt_name": "Cantón de San Mateo",
+    "boundary": "administrative",
+    "description": "San Mateo: en honor a San Mateo Apóstol y Evengelista.",
+    "name": "San Mateo",
+    "type": "boundary",
+    "wikidata": "Q1936056",
+    "wikipedia": "es:Cantón de San Mateo"
+  }
+},
+{
+  "type": "relation",
+  "id": 5722840,
+  "bounds": {
+    "minlat": 9.9307135,
+    "minlon": -84.5126067,
+    "maxlat": 9.9974661,
+    "maxlon": -84.4521481
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Desmonte",
+    "postal_code": "20402",
+    "type": "boundary",
+    "wikidata": "Q3705991"
+  }
+},
+{
+  "type": "relation",
+  "id": 5722978,
+  "bounds": {
+    "minlat": 9.9063051,
+    "minlon": -84.6683512,
+    "maxlat": 9.9609039,
+    "maxlon": -84.5977394
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Labrador",
+    "postal_code": "20404",
+    "type": "boundary",
+    "wikidata": "Q61677923"
+  }
+},
+{
+  "type": "relation",
+  "id": 5722994,
+  "bounds": {
+    "minlat": 9.9294894,
+    "minlon": -84.6071141,
+    "maxlat": 9.9871217,
+    "maxlon": -84.5592733
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Jesús María",
+    "postal_code": "20403",
+    "type": "boundary",
+    "wikidata": "Q3808198"
+  }
+},
+{
+  "type": "relation",
+  "id": 5723007,
+  "bounds": {
+    "minlat": 9.9205933,
+    "minlon": -84.5845109,
+    "maxlat": 10.0148028,
+    "maxlon": -84.4917001
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "San Mateo",
+    "postal_code": "20401",
+    "type": "boundary",
+    "wikidata": "Q3029861"
+  }
+},
+{
+  "type": "relation",
+  "id": 5725181,
+  "bounds": {
+    "minlat": 9.9929735,
+    "minlon": -84.3623816,
+    "maxlat": 10.1883296,
+    "maxlon": -84.2300031
+  },
+  "tags": {
+    "admin_level": "6",
+    "alt_name": "Cantón de Grecia",
+    "boundary": "administrative",
+    "description": "Grecia: en honor al país europeo que desde 1821 luchaba por obtener la independencia del Imperio Otomano.",
+    "name": "Grecia",
+    "type": "boundary",
+    "wikidata": "Q2594049",
+    "wikipedia": "es:Cantón de Grecia"
+  }
+},
+{
+  "type": "relation",
+  "id": 5900570,
+  "bounds": {
+    "minlat": 10.0183943,
+    "minlon": -84.4438852,
+    "maxlat": 10.1923848,
+    "maxlon": -84.3331706
+  },
+  "tags": {
+    "admin_level": "6",
+    "alt_name": "Cantón de Naranjo",
+    "boundary": "administrative",
+    "description": "Naranjo: por la abundancia de naranjales.",
+    "name": "Naranjo",
+    "type": "boundary",
+    "wikidata": "Q2544794",
+    "wikipedia": "es:Cantón de Naranjo"
+  }
+},
+{
+  "type": "relation",
+  "id": 5992810,
+  "bounds": {
+    "minlat": 10.2449385,
+    "minlon": -84.8631759,
+    "maxlat": 10.9957545,
+    "maxlon": -84.1611432
+  },
+  "tags": {
+    "admin_level": "6",
+    "alt_name": "Cantón de San Carlos",
+    "boundary": "administrative",
+    "description": "San Carlos: recibe su nombre de la construcción de una empalizada española, a la que se le dio el nombre de San Carlos de Austria.",
+    "name": "San Carlos",
+    "postal_code": "210",
+    "type": "boundary",
+    "wikidata": "Q931244",
+    "wikipedia": "es:Cantón de San Carlos"
+  }
+},
+{
+  "type": "relation",
+  "id": 5994895,
+  "bounds": {
+    "minlat": 9.9797331,
+    "minlon": -84.7940710,
+    "maxlat": 10.4567270,
+    "maxlon": -84.4145938
+  },
+  "tags": {
+    "admin_level": "6",
+    "alt_name": "Cantón de San Ramón",
+    "boundary": "administrative",
+    "description": "San Ramón: En honor a San Ramón Nonato.",
+    "name": "San Ramón",
+    "type": "boundary",
+    "wikidata": "Q1932227",
+    "wikipedia": "es:Cantón de San Ramón"
+  }
+},
+{
+  "type": "relation",
+  "id": 5995231,
+  "bounds": {
+    "minlat": 10.1672509,
+    "minlon": -84.5183131,
+    "maxlat": 10.2705918,
+    "maxlon": -84.3144007
+  },
+  "tags": {
+    "admin_level": "6",
+    "alt_name": "Cantón de Zarcero",
+    "boundary": "administrative",
+    "description": "Zarcero: Originalmente, llamado Alfaro Ruiz en honor a Juan Alfaro Ruiz, héroe de la Campaña Nacional de 1856-1857.\nActualmente, proviene de la planta de zarzaparrilla (o zarzamora sin espinas) que crecía en la región.",
+    "name": "Zarcero",
+    "old_name": "Alfaro Ruiz",
+    "type": "boundary",
+    "wikidata": "Q12856942",
+    "wikipedia": "es:Cantón de Zarcero"
+  }
+},
+{
+  "type": "relation",
+  "id": 5995868,
+  "bounds": {
+    "minlat": 10.2691376,
+    "minlon": -84.7940710,
+    "maxlat": 10.4567270,
+    "maxlon": -84.5460885
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Peñas Blancas",
+    "postal_code": "20213",
+    "type": "boundary",
+    "wikidata": "Q3901235"
+  }
+},
+{
+  "type": "relation",
+  "id": 5995958,
+  "bounds": {
+    "minlat": 10.1005849,
+    "minlon": -84.4530463,
+    "maxlat": 10.1526718,
+    "maxlon": -84.4145938
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Concepción",
+    "postal_code": "20211",
+    "type": "boundary",
+    "wikidata": "Q1114406"
+  }
+},
+{
+  "type": "relation",
+  "id": 5995970,
+  "bounds": {
+    "minlat": 10.1139118,
+    "minlon": -84.4741297,
+    "maxlat": 10.1895882,
+    "maxlon": -84.4256818
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Volio",
+    "postal_code": "20210",
+    "type": "boundary",
+    "wikidata": "Q4016130"
+  }
+},
+{
+  "type": "relation",
+  "id": 5996094,
+  "bounds": {
+    "minlat": 9.9786126,
+    "minlon": -84.4979013,
+    "maxlat": 10.0841015,
+    "maxlon": -84.4521481
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "San Rafael",
+    "postal_code": "20206",
+    "type": "boundary",
+    "wikidata": "Q3947877"
+  }
+},
+{
+  "type": "relation",
+  "id": 5996105,
+  "bounds": {
+    "minlat": 9.9929492,
+    "minlon": -84.6089521,
+    "maxlat": 10.0831065,
+    "maxlon": -84.4734148
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Santiago",
+    "postal_code": "20202",
+    "type": "boundary",
+    "wikidata": "Q7420254"
+  }
+},
+{
+  "type": "relation",
+  "id": 6013259,
+  "bounds": {
+    "minlat": 10.2519432,
+    "minlon": -84.4776771,
+    "maxlat": 10.4359208,
+    "maxlon": -84.3626575
+  },
+  "tags": {
+    "admin_level": "8",
+    "alt_name": "Ciudad Quesada",
+    "boundary": "administrative",
+    "name": "Quesada",
+    "postal_code": "21001",
+    "type": "boundary",
+    "wikidata": "Q787675"
+  }
+},
+{
+  "type": "relation",
+  "id": 6013296,
+  "bounds": {
+    "minlat": 10.2492444,
+    "minlon": -84.5174977,
+    "maxlat": 10.3154691,
+    "maxlon": -84.4333134
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Buenavista",
+    "postal_code": "21003",
+    "type": "boundary",
+    "wikidata": "Q3646510"
+  }
+},
+{
+  "type": "relation",
+  "id": 6361847,
+  "bounds": {
+    "minlat": 10.2492444,
+    "minlon": -84.5580572,
+    "maxlat": 10.4846272,
+    "maxlon": -84.4039381
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Florencia",
+    "postal_code": "21002",
+    "type": "boundary",
+    "wikidata": "Q3746694"
+  }
+},
+{
+  "type": "relation",
+  "id": 6362165,
+  "bounds": {
+    "minlat": 10.3093481,
+    "minlon": -84.6367800,
+    "maxlat": 10.4017950,
+    "maxlon": -84.5313117
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "La Tigra",
+    "postal_code": "21008",
+    "type": "boundary",
+    "wikidata": "Q3991280"
+  }
+},
+{
+  "type": "relation",
+  "id": 6362231,
+  "bounds": {
+    "minlat": 10.3764847,
+    "minlon": -84.7734649,
+    "maxlat": 10.5224525,
+    "maxlon": -84.5104754
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "La Fortuna",
+    "postal_code": "21007",
+    "type": "boundary",
+    "wikidata": "Q3209157"
+  }
+},
+{
+  "type": "relation",
+  "id": 6363034,
+  "bounds": {
+    "minlat": 10.2449385,
+    "minlon": -84.4583669,
+    "maxlat": 10.4858745,
+    "maxlon": -84.3385773
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "La Palmera",
+    "postal_code": "21009",
+    "type": "boundary",
+    "wikidata": "Q3892775"
+  }
+},
+{
+  "type": "relation",
+  "id": 6363063,
+  "bounds": {
+    "minlat": 10.2538643,
+    "minlon": -84.4125157,
+    "maxlat": 10.5907243,
+    "maxlon": -84.2983267
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Aguas Zarcas",
+    "postal_code": "21004",
+    "type": "boundary",
+    "wikidata": "Q3606910"
+  }
+},
+{
+  "type": "relation",
+  "id": 6927054,
+  "bounds": {
+    "minlat": 10.0367568,
+    "minlon": -84.3600390,
+    "maxlat": 10.1804027,
+    "maxlon": -84.2408921
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "San Roque",
+    "postal_code": "20304",
+    "type": "boundary",
+    "wikidata": "Q3947915"
+  }
+},
+{
+  "type": "relation",
+  "id": 6927094,
+  "bounds": {
+    "minlat": 9.9958051,
+    "minlon": -84.3623816,
+    "maxlat": 10.0637562,
+    "maxlon": -84.3040072
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Puente de Piedra",
+    "postal_code": "20307",
+    "type": "boundary",
+    "wikidata": "Q3925385"
+  }
+},
+{
+  "type": "relation",
+  "id": 6927120,
+  "bounds": {
+    "minlat": 10.0483486,
+    "minlon": -84.3588081,
+    "maxlat": 10.1007041,
+    "maxlon": -84.3296817
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Sarchí Sur",
+    "postal_code": "21202",
+    "type": "boundary",
+    "wikidata": "Q3950450"
+  }
+},
+{
+  "type": "relation",
+  "id": 6927201,
+  "bounds": {
+    "minlat": 10.0817913,
+    "minlon": -84.3622467,
+    "maxlat": 10.1539329,
+    "maxlon": -84.3340364
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Rodríguez",
+    "postal_code": "21205",
+    "type": "boundary",
+    "wikidata": "Q3940055"
+  }
+},
+{
+  "type": "relation",
+  "id": 6927207,
+  "bounds": {
+    "minlat": 10.0648006,
+    "minlon": -84.3602962,
+    "maxlat": 10.1864654,
+    "maxlon": -84.2819343
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Sarchí Norte",
+    "postal_code": "21201",
+    "type": "boundary",
+    "wikidata": "Q290882"
+  }
+},
+{
+  "type": "relation",
+  "id": 7094888,
+  "bounds": {
+    "minlat": 10.1698979,
+    "minlon": -84.7660171,
+    "maxlat": 10.3739532,
+    "maxlon": -84.5148182
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "San Lorenzo",
+    "postal_code": "20214",
+    "type": "boundary",
+    "wikidata": "Q98669429"
+  }
+},
+{
+  "type": "relation",
+  "id": 7094947,
+  "bounds": {
+    "minlat": 10.0712730,
+    "minlon": -84.6835831,
+    "maxlat": 10.1980966,
+    "maxlon": -84.5872963
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Zapotal",
+    "postal_code": "20212",
+    "type": "boundary",
+    "wikidata": "Q4023835"
+  }
+},
+{
+  "type": "relation",
+  "id": 7095090,
+  "bounds": {
+    "minlat": 10.0407072,
+    "minlon": -84.6312560,
+    "maxlat": 10.1543088,
+    "maxlon": -84.5064867
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Piedades Sur",
+    "postal_code": "20205",
+    "type": "boundary",
+    "wikidata": "Q3902729"
+  }
+},
+{
+  "type": "relation",
+  "id": 7095197,
+  "bounds": {
+    "minlat": 10.0924968,
+    "minlon": -84.6017587,
+    "maxlat": 10.1867659,
+    "maxlon": -84.4711735
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Piedades Norte",
+    "postal_code": "20204",
+    "type": "boundary",
+    "wikidata": "Q3902727"
+  }
+},
+{
+  "type": "relation",
+  "id": 7095201,
+  "bounds": {
+    "minlat": 10.1004591,
+    "minlon": -84.5827449,
+    "maxlat": 10.2358702,
+    "maxlon": -84.4592368
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Ángeles",
+    "postal_code": "20208",
+    "type": "boundary",
+    "wikidata": "Q3616800"
+  }
+},
+{
+  "type": "relation",
+  "id": 7359117,
+  "bounds": {
+    "minlat": 10.1718507,
+    "minlon": -84.4056481,
+    "maxlat": 10.2062819,
+    "maxlon": -84.3441899
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Zarcero",
+    "postal_code": "21101",
+    "type": "boundary",
+    "wikidata": "Q975960"
+  }
+},
+{
+  "type": "relation",
+  "id": 7359123,
+  "bounds": {
+    "minlat": 10.1672509,
+    "minlon": -84.4774309,
+    "maxlat": 10.2122562,
+    "maxlon": -84.3995579
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Guadalupe",
+    "postal_code": "21104",
+    "type": "boundary",
+    "wikidata": "Q3778057"
+  }
+},
+{
+  "type": "relation",
+  "id": 7359125,
+  "bounds": {
+    "minlat": 10.1881819,
+    "minlon": -84.5183131,
+    "maxlat": 10.2492444,
+    "maxlon": -84.3840540
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Laguna",
+    "postal_code": "21102",
+    "type": "boundary",
+    "wikidata": "Q3826119"
+  }
+},
+{
+  "type": "relation",
+  "id": 7359131,
+  "bounds": {
+    "minlat": 10.2120952,
+    "minlon": -84.4357628,
+    "maxlat": 10.2261804,
+    "maxlon": -84.3778458
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Tapesco",
+    "postal_code": "21103",
+    "type": "boundary",
+    "wikidata": "Q3980981"
+  }
+},
+{
+  "type": "relation",
+  "id": 7360082,
+  "bounds": {
+    "minlat": 10.2152681,
+    "minlon": -84.5174977,
+    "maxlat": 10.2705918,
+    "maxlon": -84.3992723
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Zapote",
+    "postal_code": "21106",
+    "type": "boundary",
+    "wikidata": "Q4023836"
+  }
+},
+{
+  "type": "relation",
+  "id": 7360133,
+  "bounds": {
+    "minlat": 10.2215215,
+    "minlon": -84.4187643,
+    "maxlat": 10.2636892,
+    "maxlon": -84.3522720
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Brisas",
+    "postal_code": "21107",
+    "type": "boundary",
+    "wikidata": "Q3644841"
+  }
+},
+{
+  "type": "relation",
+  "id": 7360136,
+  "bounds": {
+    "minlat": 10.1692611,
+    "minlon": -84.3856031,
+    "maxlat": 10.2449385,
+    "maxlon": -84.3144007
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Palmira",
+    "postal_code": "21105",
+    "type": "boundary",
+    "wikidata": "Q3892797"
+  }
+},
+{
+  "type": "relation",
+  "id": 7367476,
+  "bounds": {
+    "minlat": 10.1247762,
+    "minlon": -84.4320058,
+    "maxlat": 10.1761919,
+    "maxlon": -84.3786006
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "San José",
+    "postal_code": "20603",
+    "type": "boundary",
+    "wikidata": "Q3947404"
+  }
+},
+{
+  "type": "relation",
+  "id": 7367509,
+  "bounds": {
+    "minlat": 10.0837701,
+    "minlon": -84.3723238,
+    "maxlat": 10.1730583,
+    "maxlon": -84.3331706
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "San Jerónimo",
+    "postal_code": "20605",
+    "type": "boundary",
+    "wikidata": "Q3947378"
+  }
+},
+{
+  "type": "relation",
+  "id": 7367603,
+  "bounds": {
+    "minlat": 10.0952117,
+    "minlon": -84.3906822,
+    "maxlat": 10.1923848,
+    "maxlon": -84.3366443
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Cirrí Sur",
+    "postal_code": "20604",
+    "type": "boundary",
+    "wikidata": "Q3678190"
+  }
+},
+{
+  "type": "relation",
+  "id": 7367620,
+  "bounds": {
+    "minlat": 10.0183943,
+    "minlon": -84.4124497,
+    "maxlat": 10.0715641,
+    "maxlon": -84.3562467
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "El Rosario",
+    "postal_code": "20607",
+    "type": "boundary",
+    "wikidata": "Q3941341"
+  }
+},
+{
+  "type": "relation",
+  "id": 7368635,
+  "bounds": {
+    "minlat": 10.0369992,
+    "minlon": -84.4190638,
+    "maxlat": 10.0893510,
+    "maxlon": -84.3570842
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "San Miguel",
+    "postal_code": "20602",
+    "type": "boundary",
+    "wikidata": "Q3947698"
+  }
+},
+{
+  "type": "relation",
+  "id": 7368673,
+  "bounds": {
+    "minlat": 10.0774378,
+    "minlon": -84.4438852,
+    "maxlat": 10.1128020,
+    "maxlon": -84.4021524
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Palmitos",
+    "postal_code": "20608",
+    "type": "boundary",
+    "wikidata": "Q61677859"
+  }
+},
+{
+  "type": "relation",
+  "id": 7369100,
+  "bounds": {
+    "minlat": 10.1066877,
+    "minlon": -84.4364876,
+    "maxlat": 10.1305987,
+    "maxlon": -84.3879063
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "San Juan",
+    "postal_code": "20606",
+    "type": "boundary",
+    "wikidata": "Q3947428"
+  }
+},
+{
+  "type": "relation",
+  "id": 7369155,
+  "bounds": {
+    "minlat": 10.0687181,
+    "minlon": -84.4167208,
+    "maxlat": 10.1315770,
+    "maxlon": -84.3585314
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Naranjo",
+    "postal_code": "20601",
+    "type": "boundary",
+    "wikidata": "Q1757000"
+  }
+}
+
+  ]
+}

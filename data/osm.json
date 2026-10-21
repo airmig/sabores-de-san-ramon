@@ -1,0 +1,3172 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-21T02:53:13Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 430995815,
+  "lat": 10.1719400,
+  "lon": -84.4976937,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 875237535,
+  "lat": 10.0866165,
+  "lon": -84.4758000,
+  "tags": {
+    "addr:city": "San Ramón",
+    "amenity": "bar",
+    "name": "La KZ"
+  }
+},
+{
+  "type": "node",
+  "id": 875251266,
+  "lat": 10.0991720,
+  "lon": -84.4719810,
+  "tags": {
+    "amenity": "bar",
+    "name": "Evolucion"
+  }
+},
+{
+  "type": "node",
+  "id": 875256676,
+  "lat": 10.0663229,
+  "lon": -84.4997243,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Culebra"
+  }
+},
+{
+  "type": "node",
+  "id": 875260090,
+  "lat": 10.0604449,
+  "lon": -84.4989586,
+  "tags": {
+    "addr:street": "Carretera Interamericana Norte",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "El Jardín"
+  }
+},
+{
+  "type": "node",
+  "id": 1037448884,
+  "lat": 10.1069156,
+  "lon": -84.3871505,
+  "tags": {
+    "amenity": "bar",
+    "name": "Bar PK2"
+  }
+},
+{
+  "type": "node",
+  "id": 1037459124,
+  "lat": 10.1320196,
+  "lon": -84.3970118,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Mirador Esquivel"
+  }
+},
+{
+  "type": "node",
+  "id": 1037463929,
+  "lat": 10.1539247,
+  "lon": -84.3827150,
+  "tags": {
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "Restaurante el Mirador",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1295484632,
+  "lat": 10.1219600,
+  "lon": -84.4699800,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Redtaurante Tipico Las Orquideas"
+  }
+},
+{
+  "type": "node",
+  "id": 1295516959,
+  "lat": 10.1362844,
+  "lon": -84.4755221,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurante Cloud Forest"
+  }
+},
+{
+  "type": "node",
+  "id": 1295518706,
+  "lat": 10.1477564,
+  "lon": -84.4875620,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurante Mi Tierrita"
+  }
+},
+{
+  "type": "node",
+  "id": 1415421205,
+  "lat": 10.2066414,
+  "lon": -84.3991289,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Rancho Ceci"
+  }
+},
+{
+  "type": "node",
+  "id": 1415421208,
+  "lat": 10.1863421,
+  "lon": -84.3917446,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Café Tiramisù de Limón"
+  }
+},
+{
+  "type": "node",
+  "id": 1415421230,
+  "lat": 10.1860712,
+  "lon": -84.3918296,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Café Canela"
+  }
+},
+{
+  "type": "node",
+  "id": 1415441366,
+  "lat": 10.2020271,
+  "lon": -84.3976162,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "La Cocina de Tía"
+  }
+},
+{
+  "type": "node",
+  "id": 1619193020,
+  "lat": 10.2261563,
+  "lon": -84.4063648,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurante Valdivia"
+  }
+},
+{
+  "type": "node",
+  "id": 1619194336,
+  "lat": 10.2168811,
+  "lon": -84.4009322,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurante Siempre Rico"
+  }
+},
+{
+  "type": "node",
+  "id": 1619197421,
+  "lat": 10.2172970,
+  "lon": -84.4007148,
+  "tags": {
+    "amenity": "bar",
+    "name": "Bar Tapezco"
+  }
+},
+{
+  "type": "node",
+  "id": 1621196474,
+  "lat": 10.1791300,
+  "lon": -84.3813700,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurante Doña Chila"
+  }
+},
+{
+  "type": "node",
+  "id": 1621196636,
+  "lat": 10.1799782,
+  "lon": -84.3831059,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurante Hereford Steak House"
+  }
+},
+{
+  "type": "node",
+  "id": 1621196862,
+  "lat": 10.1799800,
+  "lon": -84.3836800,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Rancho Zarcereño"
+  }
+},
+{
+  "type": "node",
+  "id": 2074779984,
+  "lat": 10.0031111,
+  "lon": -84.3933722,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Mirador El Pueblo"
+  }
+},
+{
+  "type": "node",
+  "id": 2075204594,
+  "lat": 9.9740701,
+  "lon": -84.4108647,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "mexican",
+    "name": "Jalapeños"
+  }
+},
+{
+  "type": "node",
+  "id": 2333820181,
+  "lat": 10.0705520,
+  "lon": -84.4902454,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Tribu"
+  }
+},
+{
+  "type": "node",
+  "id": 3082953387,
+  "lat": 9.9874519,
+  "lon": -84.4084621,
+  "tags": {
+    "addr:city": "Mercedes",
+    "amenity": "fast_food",
+    "cuisine": "burger",
+    "name": "Hamburguesas La Mandarina"
+  }
+},
+{
+  "type": "node",
+  "id": 3268370941,
+  "lat": 9.9720801,
+  "lon": -84.4401751,
+  "tags": {
+    "amenity": "bar",
+    "name": "Bar Linda Vista"
+  }
+},
+{
+  "type": "node",
+  "id": 3268374366,
+  "lat": 9.9848751,
+  "lon": -84.4547170,
+  "tags": {
+    "addr:city": "Desmonte",
+    "addr:postcode": "20402",
+    "addr:street": "Calle La Guatusa",
+    "amenity": "bar",
+    "name": "Bar Ñeco"
+  }
+},
+{
+  "type": "node",
+  "id": 3268434696,
+  "lat": 9.9981291,
+  "lon": -84.4143452,
+  "tags": {
+    "addr:city": "San Isidro",
+    "addr:street": "Calle Morazán",
+    "amenity": "bar",
+    "name": "Bar La Troja"
+  }
+},
+{
+  "type": "node",
+  "id": 3268434697,
+  "lat": 9.9977857,
+  "lon": -84.4140776,
+  "tags": {
+    "addr:city": "San Isidro",
+    "addr:street": "Calle Brujas",
+    "amenity": "bar",
+    "name": "Bar Chaves"
+  }
+},
+{
+  "type": "node",
+  "id": 3268434771,
+  "lat": 9.9980909,
+  "lon": -84.4107757,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Chicharronera El Trapiche"
+  }
+},
+{
+  "type": "node",
+  "id": 3740414291,
+  "lat": 9.9920506,
+  "lon": -84.4214183,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Vista del Valle"
+  }
+},
+{
+  "type": "node",
+  "id": 3740688856,
+  "lat": 9.9796221,
+  "lon": -84.3804642,
+  "tags": {
+    "addr:city": "Atenas",
+    "addr:street": "Avenida 1",
+    "amenity": "cafe",
+    "cuisine": "juice",
+    "name": "Frosty Juice"
+  }
+},
+{
+  "type": "node",
+  "id": 4207685952,
+  "lat": 10.0594518,
+  "lon": -84.5012191,
+  "tags": {
+    "addr:city": "Santiago, San Ramón, Alajuela",
+    "amenity": "restaurant",
+    "cuisine": "típica",
+    "name": "Las Tinajitas",
+    "source": "Bing Maps, 2010"
+  }
+},
+{
+  "type": "node",
+  "id": 4242233787,
+  "lat": 10.0683111,
+  "lon": -84.4959533,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "El Felipón"
+  }
+},
+{
+  "type": "node",
+  "id": 4398057697,
+  "lat": 10.1102147,
+  "lon": -84.4579477,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Pizza Lobitos"
+  }
+},
+{
+  "type": "node",
+  "id": 4945968678,
+  "lat": 10.0805366,
+  "lon": -84.3878120,
+  "tags": {
+    "amenity": "bar",
+    "name": "Bar La Gallera"
+  }
+},
+{
+  "type": "node",
+  "id": 5008198842,
+  "lat": 10.0416868,
+  "lon": -84.4303469,
+  "tags": {
+    "addr:housenumber": "+50624521638",
+    "addr:postcode": "20702",
+    "addr:street": "Calle principal",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "internet_access": "wlan",
+    "name": "Pizzeria S&R",
+    "opening_hours": "We-Mo 11:00-22:45",
+    "phone": "+50624521638"
+  }
+},
+{
+  "type": "node",
+  "id": 5027477624,
+  "lat": 10.0910376,
+  "lon": -84.4187115,
+  "tags": {
+    "amenity": "bar",
+    "name": "Rancho Rafa",
+    "name:es": "Rancho Rafa"
+  }
+},
+{
+  "type": "node",
+  "id": 5143469461,
+  "lat": 10.0603137,
+  "lon": -84.4748326,
+  "tags": {
+    "addr:city": "San Rafael",
+    "amenity": "bar",
+    "name": "Kalúas"
+  }
+},
+{
+  "type": "node",
+  "id": 5767079867,
+  "lat": 10.1166941,
+  "lon": -84.3987285,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurante Los Pilones"
+  }
+},
+{
+  "type": "node",
+  "id": 5821396469,
+  "lat": 10.1365619,
+  "lon": -84.5148650,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "regional;coffee_shop;sandwich;burger",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Las Tardes",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "outdoor_seating": "yes",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5844841944,
+  "lat": 10.0379504,
+  "lon": -84.4407357,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Las Tejas"
+  }
+},
+{
+  "type": "node",
+  "id": 5844863361,
+  "lat": 10.0357550,
+  "lon": -84.4494585,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "regional;burger;chicken",
+    "delivery": "yes",
+    "name": "Olga's Comidas Rápidas"
+  }
+},
+{
+  "type": "node",
+  "id": 5844863362,
+  "lat": 10.0361144,
+  "lon": -84.4489094,
+  "tags": {
+    "amenity": "bar",
+    "brewery": "1",
+    "name": "Fory Fay"
+  }
+},
+{
+  "type": "node",
+  "id": 5844864908,
+  "lat": 10.0378091,
+  "lon": -84.4421677,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Comidas Rápidas Macho"
+  }
+},
+{
+  "type": "node",
+  "id": 8699007993,
+  "lat": 10.0777145,
+  "lon": -84.4695867,
+  "tags": {
+    "amenity": "fast_food",
+    "branch": "San Ramón",
+    "brand": "Taco Bell",
+    "brand:wikidata": "Q752941",
+    "brand:wikipedia": "en:Taco Bell",
+    "cuisine": "tex-mex",
+    "name": "Taco Bell",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8699007994,
+  "lat": 10.0777286,
+  "lon": -84.4692615,
+  "tags": {
+    "alt_name": "Kentucky Fried Chicken",
+    "amenity": "fast_food",
+    "branch": "San Ramón",
+    "brand": "KFC",
+    "brand:wikidata": "Q524757",
+    "brand:wikipedia": "en:KFC",
+    "cuisine": "chicken",
+    "name": "KFC",
+    "operator": "Intelectiva Costa Rica S.R.L.",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8699007995,
+  "lat": 10.0776528,
+  "lon": -84.4692580,
+  "tags": {
+    "amenity": "fast_food",
+    "branch": "San Ramón",
+    "brand": "McDonald's",
+    "brand:wikidata": "Q38076",
+    "brand:wikipedia": "en:McDonald's",
+    "cuisine": "burger",
+    "name": "McDonald's",
+    "operator": "Arcos Dorados",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8726409417,
+  "lat": 10.1493476,
+  "lon": -84.5053685,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Savory a la Thai"
+  }
+},
+{
+  "type": "node",
+  "id": 9057484261,
+  "lat": 10.1007368,
+  "lon": -84.4026552,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Yummy House"
+  }
+},
+{
+  "type": "node",
+  "id": 9057494035,
+  "lat": 10.0769464,
+  "lon": -84.4106573,
+  "tags": {
+    "amenity": "bar",
+    "name": "Bar Miguel Chacón"
+  }
+},
+{
+  "type": "node",
+  "id": 9057502448,
+  "lat": 10.0906090,
+  "lon": -84.4155134,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Comidas Rápidas Yensi"
+  }
+},
+{
+  "type": "node",
+  "id": 9467636472,
+  "lat": 10.0777375,
+  "lon": -84.4694444,
+  "tags": {
+    "amenity": "fast_food",
+    "branch": "San Ramón",
+    "brand": "Papa John's",
+    "brand:wikidata": "Q2759586",
+    "brand:wikipedia": "en:Papa John's Pizza",
+    "cuisine": "pizza",
+    "name": "Papa John's",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10799533628,
+  "lat": 10.0541700,
+  "lon": -84.4375570,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "grill;bar_and_grill",
+    "name": "Liverpool bar & grill"
+  }
+},
+{
+  "type": "node",
+  "id": 10799533664,
+  "lat": 10.0553216,
+  "lon": -84.4325871,
+  "tags": {
+    "amenity": "fast_food",
+    "branch": "Palmares",
+    "brand": "Pollolandia",
+    "brand:wikidata": "Q134611065",
+    "cuisine": "chicken",
+    "drive_through": "no",
+    "name": "Pollolandia",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10799533666,
+  "lat": 10.0564767,
+  "lon": -84.4329118,
+  "tags": {
+    "amenity": "ice_cream",
+    "name": "Heladería El Parque"
+  }
+},
+{
+  "type": "node",
+  "id": 11064025202,
+  "lat": 10.0987135,
+  "lon": -84.4684524,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "pupusas;empanada;casados;gallitos;café",
+    "name": "Ventanita Enseñas",
+    "phone": "+506 85133808"
+  }
+},
+{
+  "type": "node",
+  "id": 11251844032,
+  "lat": 9.9877248,
+  "lon": -84.4084242,
+  "tags": {
+    "amenity": "bar",
+    "name": "Bar Manu"
+  }
+},
+{
+  "type": "node",
+  "id": 11280523769,
+  "lat": 10.0828017,
+  "lon": -84.4691507,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "Pizza Hut",
+    "brand:wikidata": "Q191615",
+    "cuisine": "pizza",
+    "level": "2",
+    "name": "Pizza Hut"
+  }
+},
+{
+  "type": "node",
+  "id": 11280527350,
+  "lat": 10.0866527,
+  "lon": -84.4700348,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Carrillo Dark Kitchen"
+  }
+},
+{
+  "type": "node",
+  "id": 11280527364,
+  "lat": 10.0860044,
+  "lon": -84.4698247,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "juice",
+    "name": "Frutix Juices"
+  }
+},
+{
+  "type": "node",
+  "id": 11280534498,
+  "lat": 10.0867287,
+  "lon": -84.4706034,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Campos Pizzería y Comida Rápida"
+  }
+},
+{
+  "type": "node",
+  "id": 11280534503,
+  "lat": 10.0867261,
+  "lon": -84.4703890,
+  "tags": {
+    "amenity": "restaurant",
+    "level": "2",
+    "name": "Los Barriles"
+  }
+},
+{
+  "type": "node",
+  "id": 11280534510,
+  "lat": 10.0877808,
+  "lon": -84.4704390,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Rincón San Ramón"
+  }
+},
+{
+  "type": "node",
+  "id": 11280534511,
+  "lat": 10.0878091,
+  "lon": -84.4704381,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "La Conería"
+  }
+},
+{
+  "type": "node",
+  "id": 11280534523,
+  "lat": 10.0869625,
+  "lon": -84.4707649,
+  "tags": {
+    "amenity": "ice_cream",
+    "brand": "Pops",
+    "brand:wikidata": "Q119104181",
+    "name": "Pops"
+  }
+},
+{
+  "type": "node",
+  "id": 11280534534,
+  "lat": 10.0873569,
+  "lon": -84.4707046,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Caldosas Las Mejores"
+  }
+},
+{
+  "type": "node",
+  "id": 11280534535,
+  "lat": 10.0874045,
+  "lon": -84.4706983,
+  "tags": {
+    "amenity": "ice_cream",
+    "name": "Jervaho's"
+  }
+},
+{
+  "type": "node",
+  "id": 11310586846,
+  "lat": 10.2062094,
+  "lon": -84.3990677,
+  "tags": {
+    "amenity": "restaurant",
+    "check_date": "2023-11-03",
+    "level": "0",
+    "opening_hours": "Mo off; Tu-Su 05:30-19:30",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11451043069,
+  "lat": 10.0796839,
+  "lon": -84.4699457,
+  "tags": {
+    "amenity": "bar",
+    "name": "El Bar de Grillo"
+  }
+},
+{
+  "type": "node",
+  "id": 11491063303,
+  "lat": 10.0777347,
+  "lon": -84.4693523,
+  "tags": {
+    "amenity": "fast_food",
+    "branch": "San Ramón",
+    "brand": "Burger King",
+    "brand:wikidata": "Q177054",
+    "cuisine": "burger",
+    "drive_through": "no",
+    "name": "Burger King",
+    "operator": "Corporación JV",
+    "takeaway": "yes",
+    "website": "https://bkcostarica.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12758538358,
+  "lat": 10.0758632,
+  "lon": -84.4534748,
+  "tags": {
+    "amenity": "bar",
+    "name": "Bar La Guaria"
+  }
+},
+{
+  "type": "node",
+  "id": 12955627558,
+  "lat": 10.0886790,
+  "lon": -84.4720575,
+  "tags": {
+    "amenity": "fast_food",
+    "branch": "Central San Ramón",
+    "brand": "Pollolandia",
+    "brand:wikidata": "Q134611065",
+    "cuisine": "chicken",
+    "drive_through": "no",
+    "name": "Pollolandia",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12955627560,
+  "lat": 10.0964748,
+  "lon": -84.4688234,
+  "tags": {
+    "amenity": "fast_food",
+    "branch": "San Juan de San Ramón",
+    "brand": "Pollolandia",
+    "brand:wikidata": "Q134611065",
+    "cuisine": "chicken",
+    "drive_through": "no",
+    "name": "Pollolandia",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12955627562,
+  "lat": 10.0880156,
+  "lon": -84.4870986,
+  "tags": {
+    "amenity": "fast_food",
+    "branch": "San Pedro de San Ramón",
+    "brand": "Pollolandia",
+    "brand:wikidata": "Q134611065",
+    "cuisine": "chicken",
+    "name": "Pollolandia",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12958808756,
+  "lat": 9.9786097,
+  "lon": -84.3805609,
+  "tags": {
+    "amenity": "fast_food",
+    "branch": "Atenas",
+    "brand": "Pollolandia",
+    "brand:wikidata": "Q134611065",
+    "cuisine": "chicken",
+    "drive_through": "no",
+    "name": "Pollolandia",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12965486765,
+  "lat": 10.0826565,
+  "lon": -84.4693052,
+  "tags": {
+    "amenity": "fast_food",
+    "branch": "San Ramón",
+    "drive_through": "no",
+    "name": "Hamburguesas JB",
+    "name:en": "JB's Burgers",
+    "name:es": "Hamburguesas JB",
+    "name:it": "Hamburger JB"
+  }
+},
+{
+  "type": "node",
+  "id": 13245347734,
+  "lat": 10.0549480,
+  "lon": -84.5029164,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Soda Katy"
+  }
+},
+{
+  "type": "node",
+  "id": 13248340565,
+  "lat": 10.0675618,
+  "lon": -84.4986579,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Soda Alta Vista"
+  }
+},
+{
+  "type": "node",
+  "id": 13248608058,
+  "lat": 10.0858128,
+  "lon": -84.4706956,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "chicken",
+    "name": "Twins"
+  }
+},
+{
+  "type": "node",
+  "id": 13248692591,
+  "lat": 10.0840003,
+  "lon": -84.4700720,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "pizza",
+    "name": "Pizza Buty's San Ramón"
+  }
+},
+{
+  "type": "node",
+  "id": 13248692594,
+  "lat": 10.0839817,
+  "lon": -84.4698544,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "burger",
+    "name": "Inferno"
+  }
+},
+{
+  "type": "node",
+  "id": 13248692595,
+  "lat": 10.0839635,
+  "lon": -84.4700699,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "chicken",
+    "name": "Shiken"
+  }
+},
+{
+  "type": "node",
+  "id": 13248700027,
+  "lat": 10.0778226,
+  "lon": -84.4721915,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "La Sala Kuarta"
+  }
+},
+{
+  "type": "node",
+  "id": 13248700049,
+  "lat": 10.0952044,
+  "lon": -84.4686839,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Los Abuelos"
+  }
+},
+{
+  "type": "node",
+  "id": 13248700050,
+  "lat": 10.0967926,
+  "lon": -84.4688446,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "pizza",
+    "name": "Ranch"
+  }
+},
+{
+  "type": "node",
+  "id": 13248700052,
+  "lat": 10.1079974,
+  "lon": -84.4596291,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Crispy Wings"
+  }
+},
+{
+  "type": "node",
+  "id": 13264072021,
+  "lat": 9.9805515,
+  "lon": -84.3813099,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "name": "Sushi Ōmi"
+  }
+},
+{
+  "type": "node",
+  "id": 13264072023,
+  "lat": 9.9806345,
+  "lon": -84.3813098,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Dulce Encuentro"
+  }
+},
+{
+  "type": "node",
+  "id": 13264072027,
+  "lat": 9.9802403,
+  "lon": -84.3813203,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Latte Cafetería"
+  }
+},
+{
+  "type": "node",
+  "id": 13300921651,
+  "lat": 10.1028160,
+  "lon": -84.3836645,
+  "tags": {
+    "amenity": "fast_food",
+    "branch": "El Invu de Naranjo",
+    "cuisine": "pizza",
+    "name": "Ready Pizza"
+  }
+},
+{
+  "type": "node",
+  "id": 13615090197,
+  "lat": 9.9772364,
+  "lon": -84.3801425,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Sabor Chino"
+  }
+},
+{
+  "type": "node",
+  "id": 13615127806,
+  "lat": 9.9772954,
+  "lon": -84.3801454,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Arepas Factory"
+  }
+},
+{
+  "type": "node",
+  "id": 13620923370,
+  "lat": 9.9876507,
+  "lon": -84.4083735,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "chicken",
+    "name": "Pollo Manu"
+  }
+},
+{
+  "type": "node",
+  "id": 13628929762,
+  "lat": 10.0778569,
+  "lon": -84.4692797,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "bubble_tea",
+    "name": "Hi Tea"
+  }
+},
+{
+  "type": "node",
+  "id": 13628929763,
+  "lat": 10.0777385,
+  "lon": -84.4693990,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 13760213857,
+  "lat": 10.0776269,
+  "lon": -84.4138140,
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "Cosechas",
+    "brand:wikidata": "Q128305751",
+    "cuisine": "juice",
+    "name": "Cosechas",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13907511229,
+  "lat": 9.9812275,
+  "lon": -84.4165936,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "Donde Yadi"
+  }
+},
+{
+  "type": "node",
+  "id": 14090543694,
+  "lat": 10.0847009,
+  "lon": -84.4719806,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "name": "Hondashi Sushi"
+  }
+},
+{
+  "type": "node",
+  "id": 14090555404,
+  "lat": 10.0853649,
+  "lon": -84.4698938,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "seafood",
+    "name": "Ceviches Yali"
+  }
+},
+{
+  "type": "node",
+  "id": 14304712577,
+  "lat": 10.0681859,
+  "lon": -84.4539980,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "way",
+  "id": 130828606,
+  "center": {
+    "lat": 10.0864740,
+    "lon": -84.4686899
+  },
+  "tags": {
+    "addr:city": "San Ramón",
+    "addr:street": "Avenida Central",
+    "amenity": "pub",
+    "building": "yes",
+    "name": "Club de Amigos"
+  }
+},
+{
+  "type": "way",
+  "id": 229199183,
+  "center": {
+    "lat": 9.9796686,
+    "lon": -84.3803702
+  },
+  "tags": {
+    "addr:city": "Atenas",
+    "addr:street": "Calle Central",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "pizza",
+    "name": "Pizza Olivera",
+    "phone": "+506-2446-5930"
+  }
+},
+{
+  "type": "way",
+  "id": 398639381,
+  "center": {
+    "lat": 10.0925939,
+    "lon": -84.4723513
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Los Bocaditos"
+  }
+},
+{
+  "type": "way",
+  "id": 428576172,
+  "center": {
+    "lat": 9.9784753,
+    "lon": -84.3806493
+  },
+  "tags": {
+    "addr:city": "Atenas",
+    "addr:street": "Avenida Central",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "name": "Soda Tío Mano"
+  }
+},
+{
+  "type": "way",
+  "id": 477212635,
+  "center": {
+    "lat": 9.9790209,
+    "lon": -84.3820066
+  },
+  "tags": {
+    "addr:city": "Atenas",
+    "amenity": "cafe",
+    "building": "yes",
+    "name": "El Bus Café y Snacks"
+  }
+},
+{
+  "type": "way",
+  "id": 486499466,
+  "center": {
+    "lat": 9.9800821,
+    "lon": -84.3856794
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "barbecue",
+    "name": "Parrillada Androvetto",
+    "phone": "2446 6767"
+  }
+},
+{
+  "type": "way",
+  "id": 486608414,
+  "center": {
+    "lat": 9.9788191,
+    "lon": -84.3821985
+  },
+  "tags": {
+    "addr:city": "Atenas",
+    "addr:street": "Avenida Central",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "chinese",
+    "name": "Restaurante Pan Long"
+  }
+},
+{
+  "type": "way",
+  "id": 486609023,
+  "center": {
+    "lat": 9.9797540,
+    "lon": -84.3813269
+  },
+  "tags": {
+    "addr:city": "Atenas",
+    "addr:street": "Calle 2",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "pizza",
+    "name": "Pizzería La Finca"
+  }
+},
+{
+  "type": "way",
+  "id": 486614615,
+  "center": {
+    "lat": 9.9753742,
+    "lon": -84.3832575
+  },
+  "tags": {
+    "addr:city": "Atenas",
+    "addr:postcode": "20501",
+    "addr:street": "Avenida 8",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "polish",
+    "name": "Pequeña Polonia"
+  }
+},
+{
+  "type": "way",
+  "id": 486623828,
+  "center": {
+    "lat": 9.9789918,
+    "lon": -84.3888630
+  },
+  "tags": {
+    "addr:city": "Atenas",
+    "addr:postcode": "20502",
+    "addr:street": "Ruta Nacional 3",
+    "amenity": "restaurant",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=100046942010689",
+    "cuisine": "local;traditional",
+    "delivery": "no",
+    "diet:vegetarian": "yes",
+    "name": "Soda Tita's",
+    "opening_hours": "Mo off, Tu 11:30-15:00, We-Th 11:30-21:00, Fr-Sa 11:30-22:00, Su 11:30-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+506 2446 0383",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 486677776,
+  "center": {
+    "lat": 9.9810234,
+    "lon": -84.3803673
+  },
+  "tags": {
+    "addr:city": "Atenas",
+    "addr:street": "Avenida 5",
+    "amenity": "fast_food",
+    "building": "yes",
+    "name": "Santo Bocado"
+  }
+},
+{
+  "type": "way",
+  "id": 486692761,
+  "center": {
+    "lat": 9.9813391,
+    "lon": -84.3803662
+  },
+  "tags": {
+    "addr:city": "Atenas",
+    "addr:street": "Avenida 5",
+    "amenity": "fast_food",
+    "building": "yes",
+    "cuisine": "pizza",
+    "name": "Peperonnis Pizza"
+  }
+},
+{
+  "type": "way",
+  "id": 486701221,
+  "center": {
+    "lat": 9.9770102,
+    "lon": -84.3809955
+  },
+  "tags": {
+    "addr:city": "Atenas",
+    "addr:street": "Avenida 4",
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "La Esquina de los Colochos"
+  }
+},
+{
+  "type": "way",
+  "id": 486833393,
+  "center": {
+    "lat": 9.9771095,
+    "lon": -84.3800586
+  },
+  "tags": {
+    "addr:city": "Atenas",
+    "addr:street": "Calle Central",
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "El Mercadito"
+  }
+},
+{
+  "type": "way",
+  "id": 486842890,
+  "center": {
+    "lat": 9.9743516,
+    "lon": -84.3814098
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "name": "La Puesta de Sol"
+  }
+},
+{
+  "type": "way",
+  "id": 486923578,
+  "center": {
+    "lat": 9.9813015,
+    "lon": -84.3820439
+  },
+  "tags": {
+    "addr:city": "Atenas",
+    "addr:street": "Avenida 5",
+    "amenity": "cafe",
+    "building": "yes",
+    "name": "El Balcón del Café y Bistro"
+  }
+},
+{
+  "type": "way",
+  "id": 486923584,
+  "center": {
+    "lat": 9.9813655,
+    "lon": -84.3812686
+  },
+  "tags": {
+    "addr:city": "Atenas",
+    "addr:street": "Avenida 5",
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "El Mejor Clima #2"
+  }
+},
+{
+  "type": "way",
+  "id": 490551201,
+  "center": {
+    "lat": 9.9730080,
+    "lon": -84.4262728
+  },
+  "tags": {
+    "addr:city": "Jesús",
+    "addr:postcode": "20502",
+    "addr:street": "Calle Real",
+    "amenity": "bar",
+    "building": "yes",
+    "name": "Bar Las Brisas"
+  }
+},
+{
+  "type": "way",
+  "id": 490558122,
+  "center": {
+    "lat": 9.9746164,
+    "lon": -84.4216914
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes",
+    "name": "Antojaos"
+  }
+},
+{
+  "type": "way",
+  "id": 490566356,
+  "center": {
+    "lat": 9.9732878,
+    "lon": -84.4249877
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "house",
+    "name": "Delicias Maia"
+  }
+},
+{
+  "type": "way",
+  "id": 490608017,
+  "center": {
+    "lat": 9.9720775,
+    "lon": -84.4401702
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 490609205,
+  "center": {
+    "lat": 9.9792719,
+    "lon": -84.4493053
+  },
+  "tags": {
+    "addr:city": "Jesús",
+    "addr:postcode": "20502",
+    "addr:street": "Calle Real",
+    "air_conditioning": "no",
+    "amenity": "cafe",
+    "building": "yes",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "La Casita del Café",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "toilets": "yes",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 490610769,
+  "center": {
+    "lat": 9.9721967,
+    "lon": -84.4174682
+  },
+  "tags": {
+    "addr:city": "Jesús",
+    "addr:postcode": "20502",
+    "addr:street": "Calle Real",
+    "amenity": "bar",
+    "building": "yes",
+    "name": "La Cabaña",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 490611275,
+  "center": {
+    "lat": 9.9740683,
+    "lon": -84.4109085
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 493296986,
+  "center": {
+    "lat": 9.9773090,
+    "lon": -84.4251444
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "name": "Bar Rill",
+    "name:es": "Bar Rill"
+  }
+},
+{
+  "type": "way",
+  "id": 496491340,
+  "center": {
+    "lat": 9.9903333,
+    "lon": -84.3832330
+  },
+  "tags": {
+    "addr:city": "Mercedes",
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Restaurante El Tronco"
+  }
+},
+{
+  "type": "way",
+  "id": 501296827,
+  "center": {
+    "lat": 9.9871716,
+    "lon": -84.3909091
+  },
+  "tags": {
+    "addr:city": "Mercedes",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "building": "yes",
+    "check_date": "2023-02-10",
+    "cuisine": "regional",
+    "diet:vegetarian": "yes",
+    "name": "Rest. El Guanacaste",
+    "outdoor_seating": "yes",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 501298772,
+  "center": {
+    "lat": 9.9875815,
+    "lon": -84.3973611
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "house",
+    "name": "Donde Bocha Antojería"
+  }
+},
+{
+  "type": "way",
+  "id": 533876199,
+  "center": {
+    "lat": 10.1284921,
+    "lon": -84.4540074
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "name": "Bar El Milenium"
+  }
+},
+{
+  "type": "way",
+  "id": 533876201,
+  "center": {
+    "lat": 10.1294766,
+    "lon": -84.4551044
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "El Zafiro"
+  }
+},
+{
+  "type": "way",
+  "id": 559272770,
+  "center": {
+    "lat": 10.0878051,
+    "lon": -84.4702359
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "La Cocina de Má"
+  }
+},
+{
+  "type": "way",
+  "id": 559272772,
+  "center": {
+    "lat": 10.0880123,
+    "lon": -84.4704325
+  },
+  "tags": {
+    "amenity": "ice_cream",
+    "building": "yes",
+    "name": "Scarchas"
+  }
+},
+{
+  "type": "way",
+  "id": 559272776,
+  "center": {
+    "lat": 10.0878254,
+    "lon": -84.4704349
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 585783436,
+  "center": {
+    "lat": 10.1261912,
+    "lon": -84.4564020
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 667759301,
+  "center": {
+    "lat": 9.9880764,
+    "lon": -84.4022134
+  },
+  "tags": {
+    "addr:city": "Mercedes",
+    "addr:postcode": "20503",
+    "addr:street": "Calle Mercedes",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "steak_house",
+    "name": "Los Pérez Pan y Parrilla"
+  }
+},
+{
+  "type": "way",
+  "id": 843222830,
+  "center": {
+    "lat": 10.0860291,
+    "lon": -84.4804215
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Comedor"
+  }
+},
+{
+  "type": "way",
+  "id": 937331340,
+  "center": {
+    "lat": 10.0860708,
+    "lon": -84.4727268
+  },
+  "tags": {
+    "amenity": "cafe",
+    "building": "yes",
+    "cuisine": "coffee_shop",
+    "name": "Café Delicias San Ramón"
+  }
+},
+{
+  "type": "way",
+  "id": 937935139,
+  "center": {
+    "lat": 10.0597823,
+    "lon": -84.4382192
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "branch": "Palmares",
+    "brand": "Pizza Hut",
+    "brand:wikidata": "Q191615",
+    "brand:wikipedia": "en:Pizza Hut",
+    "building": "yes",
+    "cuisine": "pizza",
+    "name": "Pizza Hut",
+    "phone": "2290 9595",
+    "takeaway": "yes",
+    "website": "https://pizzahutcr.com/external/#!/home"
+  }
+},
+{
+  "type": "way",
+  "id": 938088326,
+  "center": {
+    "lat": 10.0569271,
+    "lon": -84.4347457
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "name": "Bar y Restaurante El Río",
+    "name:it": "Bar e Ristorante El Río"
+  }
+},
+{
+  "type": "way",
+  "id": 938088327,
+  "center": {
+    "lat": 10.0568616,
+    "lon": -84.4339197
+  },
+  "tags": {
+    "addr:city": "Palmares",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "name": "Soda Chelip's",
+    "opening_hours": "11:30-15:00"
+  }
+},
+{
+  "type": "way",
+  "id": 938219288,
+  "center": {
+    "lat": 10.0569324,
+    "lon": -84.4325248
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes",
+    "cuisine": "pizza",
+    "name": "Pizzería Artesanal Soluna"
+  }
+},
+{
+  "type": "way",
+  "id": 938219289,
+  "center": {
+    "lat": 10.0570046,
+    "lon": -84.4324454
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes",
+    "cuisine": "mexican",
+    "name": "Taquiche"
+  }
+},
+{
+  "type": "way",
+  "id": 938219290,
+  "center": {
+    "lat": 10.0567523,
+    "lon": -84.4330997
+  },
+  "tags": {
+    "addr:city": "Palmares",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "pizza",
+    "name": "Pizza Real",
+    "name:es": "Pizza Real",
+    "name:it": "Pizza Reale"
+  }
+},
+{
+  "type": "way",
+  "id": 938219292,
+  "center": {
+    "lat": 10.0567937,
+    "lon": -84.4335309
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Manolos"
+  }
+},
+{
+  "type": "way",
+  "id": 938219293,
+  "center": {
+    "lat": 10.0567337,
+    "lon": -84.4334660
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "name": "El Arepazo"
+  }
+},
+{
+  "type": "way",
+  "id": 939030569,
+  "center": {
+    "lat": 10.0917856,
+    "lon": -84.4684203
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes",
+    "name": "Los Pollitos"
+  }
+},
+{
+  "type": "way",
+  "id": 939030584,
+  "center": {
+    "lat": 10.0827610,
+    "lon": -84.4713086
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "The House"
+  }
+},
+{
+  "type": "way",
+  "id": 939030587,
+  "center": {
+    "lat": 10.0823290,
+    "lon": -84.4734093
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "El Establo"
+  }
+},
+{
+  "type": "way",
+  "id": 939030596,
+  "center": {
+    "lat": 10.0940929,
+    "lon": -84.4719874
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "pizza",
+    "name": "Papatoni's San Ramón"
+  }
+},
+{
+  "type": "way",
+  "id": 939126060,
+  "center": {
+    "lat": 10.0851579,
+    "lon": -84.4689236
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional;seafood",
+    "name": "Restaurante Nazca (Peruano)"
+  }
+},
+{
+  "type": "way",
+  "id": 939145911,
+  "center": {
+    "lat": 10.0882867,
+    "lon": -84.4670523
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Pilar"
+  }
+},
+{
+  "type": "way",
+  "id": 939145912,
+  "center": {
+    "lat": 10.0882727,
+    "lon": -84.4668119
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Buggy's"
+  }
+},
+{
+  "type": "way",
+  "id": 939145915,
+  "center": {
+    "lat": 10.0866045,
+    "lon": -84.4717936
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "branch": "San Ramón",
+    "building": "yes",
+    "cuisine": "pizza",
+    "description": "Sede 19",
+    "name": "Ready Pizza",
+    "start_date": "2021-11-20"
+  }
+},
+{
+  "type": "way",
+  "id": 939145918,
+  "center": {
+    "lat": 10.0866379,
+    "lon": -84.4709910
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "chinese",
+    "name": "Han Bin"
+  }
+},
+{
+  "type": "way",
+  "id": 939145929,
+  "center": {
+    "lat": 10.0884892,
+    "lon": -84.4707313
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "name": "Green Moon"
+  }
+},
+{
+  "type": "way",
+  "id": 939145930,
+  "center": {
+    "lat": 10.0881092,
+    "lon": -84.4706993
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes",
+    "cuisine": "chicken",
+    "name": "Delicias"
+  }
+},
+{
+  "type": "way",
+  "id": 939604238,
+  "center": {
+    "lat": 10.0527615,
+    "lon": -84.4451261
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "name": "Ruta 1"
+  }
+},
+{
+  "type": "way",
+  "id": 972387176,
+  "center": {
+    "lat": 10.1863039,
+    "lon": -84.3919896
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes",
+    "name": "Boquitas"
+  }
+},
+{
+  "type": "way",
+  "id": 972387180,
+  "center": {
+    "lat": 10.1830245,
+    "lon": -84.3921359
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes",
+    "cuisine": "pizza",
+    "name": "Pizza Olivera Zarcero"
+  }
+},
+{
+  "type": "way",
+  "id": 972387183,
+  "center": {
+    "lat": 10.1833667,
+    "lon": -84.3922000
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Restaurante Qué Sabor"
+  }
+},
+{
+  "type": "way",
+  "id": 972387188,
+  "center": {
+    "lat": 10.1833729,
+    "lon": -84.3919640
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes",
+    "cuisine": "chicken",
+    "drive_through": "no",
+    "name": "Pollo Sabormanía Zarcero"
+  }
+},
+{
+  "type": "way",
+  "id": 972387191,
+  "center": {
+    "lat": 10.1839065,
+    "lon": -84.3914265
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "La Tertulia"
+  }
+},
+{
+  "type": "way",
+  "id": 972387194,
+  "center": {
+    "lat": 10.1829588,
+    "lon": -84.3920931
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes",
+    "cuisine": "chicken",
+    "name": "Pollolandia Zarcero"
+  }
+},
+{
+  "type": "way",
+  "id": 972418481,
+  "center": {
+    "lat": 10.1839027,
+    "lon": -84.3919585
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Soda El Jardín"
+  }
+},
+{
+  "type": "way",
+  "id": 972418483,
+  "center": {
+    "lat": 10.1840400,
+    "lon": -84.3923110
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "chinese"
+  }
+},
+{
+  "type": "way",
+  "id": 972418487,
+  "center": {
+    "lat": 10.1853184,
+    "lon": -84.3921429
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Restaurante El Parquecito"
+  }
+},
+{
+  "type": "way",
+  "id": 972418495,
+  "center": {
+    "lat": 10.1893382,
+    "lon": -84.3930305
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Soda Ladrillo"
+  }
+},
+{
+  "type": "way",
+  "id": 972418497,
+  "center": {
+    "lat": 10.1903735,
+    "lon": -84.3927998
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Soda Mary"
+  }
+},
+{
+  "type": "way",
+  "id": 978885213,
+  "center": {
+    "lat": 10.0764617,
+    "lon": -84.4124844
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Katarsis Resto-Bar"
+  }
+},
+{
+  "type": "way",
+  "id": 984939278,
+  "center": {
+    "lat": 10.0879030,
+    "lon": -84.4156751
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Restaurante Edith's"
+  }
+},
+{
+  "type": "way",
+  "id": 1002853369,
+  "center": {
+    "lat": 10.0908732,
+    "lon": -84.4139508
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "name": "Bar Hermanos Vargas"
+  }
+},
+{
+  "type": "way",
+  "id": 1004792881,
+  "center": {
+    "lat": 10.0888157,
+    "lon": -84.4697855
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "Subway",
+    "brand:wikidata": "Q244457",
+    "building": "yes",
+    "cuisine": "sandwich",
+    "name": "Subway",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1026902556,
+  "center": {
+    "lat": 10.0861375,
+    "lon": -84.4735862
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "name": "Bar Vivencias"
+  }
+},
+{
+  "type": "way",
+  "id": 1042791737,
+  "center": {
+    "lat": 10.0421155,
+    "lon": -84.4294709
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Restaurante La Lira"
+  }
+},
+{
+  "type": "way",
+  "id": 1042791739,
+  "center": {
+    "lat": 10.0422748,
+    "lon": -84.4286122
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "name": "Bar Los Cipreses"
+  }
+},
+{
+  "type": "way",
+  "id": 1042791743,
+  "center": {
+    "lat": 10.0101390,
+    "lon": -84.4060243
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "name": "Bar El Derby"
+  }
+},
+{
+  "type": "way",
+  "id": 1042791748,
+  "center": {
+    "lat": 10.0001267,
+    "lon": -84.3925586
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "name": "Bar El Guapinol"
+  }
+},
+{
+  "type": "way",
+  "id": 1046984582,
+  "center": {
+    "lat": 10.0969064,
+    "lon": -84.4074858
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes",
+    "cuisine": "pizza",
+    "name": "Pizzería Corroncho"
+  }
+},
+{
+  "type": "way",
+  "id": 1055524058,
+  "center": {
+    "lat": 10.0019199,
+    "lon": -84.4395454
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "check_date": "2025-08-07",
+    "name": "Bar Tucson"
+  }
+},
+{
+  "type": "way",
+  "id": 1078135673,
+  "center": {
+    "lat": 10.0800926,
+    "lon": -84.4196615
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional;ice_cream;coffee_shop",
+    "name": "Restaurante El Paraíso"
+  }
+},
+{
+  "type": "way",
+  "id": 1082742979,
+  "center": {
+    "lat": 10.0554619,
+    "lon": -84.4323801
+  },
+  "tags": {
+    "amenity": "ice_cream",
+    "branch": "Palmares",
+    "brand": "Pops",
+    "brand:wikidata": "Q119104181",
+    "building": "yes",
+    "name": "Pops"
+  }
+},
+{
+  "type": "way",
+  "id": 1082781849,
+  "center": {
+    "lat": 10.0885662,
+    "lon": -84.4724125
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "branch": "San Ramón",
+    "building": "yes",
+    "cuisine": "pizza",
+    "description": "Sede 21",
+    "name": "Latina Pizza",
+    "start_date": "2021-11-20"
+  }
+},
+{
+  "type": "way",
+  "id": 1107960750,
+  "center": {
+    "lat": 10.0859723,
+    "lon": -84.4700758
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Santo Pecado"
+  }
+},
+{
+  "type": "way",
+  "id": 1107963852,
+  "center": {
+    "lat": 10.0850123,
+    "lon": -84.4688977
+  },
+  "tags": {
+    "amenity": "cafe",
+    "building": "yes",
+    "cuisine": "coffee_shop",
+    "internet_access": "yes",
+    "name": "Calathea / Aromas Café"
+  }
+},
+{
+  "type": "way",
+  "id": 1144538911,
+  "center": {
+    "lat": 10.1100382,
+    "lon": -84.5072640
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Restaurante Senderos",
+    "name:it": "Ristorante Senderos"
+  }
+},
+{
+  "type": "way",
+  "id": 1157991016,
+  "center": {
+    "lat": 10.0743009,
+    "lon": -84.4547489
+  },
+  "tags": {
+    "addr:city": "La Guaria",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional;callejera",
+    "diet:local": "yes",
+    "name": "Soda intermitente"
+  }
+},
+{
+  "type": "way",
+  "id": 1157991017,
+  "center": {
+    "lat": 10.0875229,
+    "lon": -84.4681059
+  },
+  "tags": {
+    "addr:city": "San Ramón",
+    "addr:postcode": "20201",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "burger;variada",
+    "diet:gluten_free": "yes",
+    "diet:lactose_free": "yes",
+    "diet:local": "yes",
+    "diet:meat": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Peli´s"
+  }
+},
+{
+  "type": "way",
+  "id": 1190282677,
+  "center": {
+    "lat": 10.0679828,
+    "lon": -84.3956187
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "name": "Bar Mi Choza"
+  }
+},
+{
+  "type": "way",
+  "id": 1196075023,
+  "center": {
+    "lat": 10.0811553,
+    "lon": -84.3821602
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "name": "Soda Jairo"
+  }
+},
+{
+  "type": "way",
+  "id": 1196077840,
+  "center": {
+    "lat": 10.1449312,
+    "lon": -84.3927436
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Las Tablitas"
+  }
+},
+{
+  "type": "way",
+  "id": 1214418780,
+  "center": {
+    "lat": 9.9872669,
+    "lon": -84.4091068
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "name": "German's Bar"
+  }
+},
+{
+  "type": "way",
+  "id": 1217446294,
+  "center": {
+    "lat": 10.0861525,
+    "lon": -84.4700751
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "branch": "San Ramón Centro",
+    "building": "commercial",
+    "drive_through": "no",
+    "name": "La Casa del Pastelillo"
+  }
+},
+{
+  "type": "way",
+  "id": 1217446295,
+  "center": {
+    "lat": 10.0862043,
+    "lon": -84.4700700
+  },
+  "tags": {
+    "amenity": "ice_cream",
+    "building": "yes",
+    "name": "Angelato"
+  }
+},
+{
+  "type": "way",
+  "id": 1217448107,
+  "center": {
+    "lat": 10.0875392,
+    "lon": -84.4707023
+  },
+  "tags": {
+    "amenity": "ice_cream",
+    "building": "yes",
+    "cuisine": "frozen_yogurt",
+    "name": "Yoba"
+  }
+},
+{
+  "type": "way",
+  "id": 1217448109,
+  "center": {
+    "lat": 10.0872686,
+    "lon": -84.4707463
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes",
+    "name": "Donde Rochi Pollo"
+  }
+},
+{
+  "type": "way",
+  "id": 1233568647,
+  "center": {
+    "lat": 10.1821435,
+    "lon": -84.3891403
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "name": "Restaurante Los Gallos"
+  }
+},
+{
+  "type": "way",
+  "id": 1233943848,
+  "center": {
+    "lat": 10.0800185,
+    "lon": -84.4696043
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Soda La Gaviota"
+  }
+},
+{
+  "type": "way",
+  "id": 1233976124,
+  "center": {
+    "lat": 10.0862098,
+    "lon": -84.4742562
+  },
+  "tags": {
+    "amenity": "pub",
+    "building": "yes",
+    "name": "The Corner Pub"
+  }
+},
+{
+  "type": "way",
+  "id": 1242694834,
+  "center": {
+    "lat": 10.1261899,
+    "lon": -84.4889453
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1242848618,
+  "center": {
+    "lat": 10.1331607,
+    "lon": -84.4910279
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1243328540,
+  "center": {
+    "lat": 10.0835500,
+    "lon": -84.4704131
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "chinese",
+    "name": "Restaurante Ta Gen",
+    "phone": "+506 24479093"
+  }
+},
+{
+  "type": "way",
+  "id": 1305155783,
+  "center": {
+    "lat": 10.1362605,
+    "lon": -84.5181101
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "pizza",
+    "name": "Pizza Loca"
+  }
+},
+{
+  "type": "way",
+  "id": 1308383522,
+  "center": {
+    "lat": 10.0576484,
+    "lon": -84.4358167
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "branch": "Palmares",
+    "building": "yes",
+    "cuisine": "pizza",
+    "name": "Ready Pizza"
+  }
+},
+{
+  "type": "way",
+  "id": 1409951294,
+  "center": {
+    "lat": 10.1022945,
+    "lon": -84.3831143
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "branch": "María Auxiliadora de Naranjo",
+    "brand": "Pollolandia",
+    "brand:wikidata": "Q134611065",
+    "building": "yes",
+    "cuisine": "chicken",
+    "drive_through": "no",
+    "name": "Pollolandia",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1409952458,
+  "center": {
+    "lat": 10.1079346,
+    "lon": -84.4006351
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "branch": "Candelaria de Naranjo",
+    "brand": "Pollolandia",
+    "brand:wikidata": "Q134611065",
+    "building": "yes",
+    "cuisine": "chicken",
+    "drive_through": "no",
+    "name": "Pollolandia",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1435734960,
+  "center": {
+    "lat": 10.0553838,
+    "lon": -84.4310249
+  },
+  "tags": {
+    "amenity": "food_court",
+    "building": "yes",
+    "name": "Plaza de Comidas Zona Safari"
+  }
+},
+{
+  "type": "way",
+  "id": 1443786946,
+  "center": {
+    "lat": 10.0862292,
+    "lon": -84.4718274
+  },
+  "tags": {
+    "amenity": "pub",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1443796289,
+  "center": {
+    "lat": 10.0754829,
+    "lon": -84.4789258
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Panadería y Restaurante Sin Gluten Delicias Ubannia"
+  }
+},
+{
+  "type": "way",
+  "id": 1444831104,
+  "center": {
+    "lat": 10.0802123,
+    "lon": -84.4197684
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "branch": "Palmitos de Naranjo",
+    "building": "yes",
+    "name": "La Casa del Pastelillo"
+  }
+},
+{
+  "type": "way",
+  "id": 1444831105,
+  "center": {
+    "lat": 10.0964714,
+    "lon": -84.3800050
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "branch": "Naranjo",
+    "building": "yes",
+    "name": "La Casa del Pastelillo"
+  }
+},
+{
+  "type": "way",
+  "id": 1444831106,
+  "center": {
+    "lat": 10.0605350,
+    "lon": -84.4328890
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "branch": "Palmares",
+    "building": "yes",
+    "name": "La Casa del Pastelillo"
+  }
+},
+{
+  "type": "way",
+  "id": 1444831117,
+  "center": {
+    "lat": 10.0908649,
+    "lon": -84.4700605
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "branch": "La Sabana de San Ramón",
+    "building": "yes",
+    "name": "La Casa del Pastelillo"
+  }
+},
+{
+  "type": "way",
+  "id": 1447059223,
+  "center": {
+    "lat": 10.0606695,
+    "lon": -84.4399933
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Restaurante Bienvenido"
+  }
+},
+{
+  "type": "way",
+  "id": 1447061778,
+  "center": {
+    "lat": 10.0600390,
+    "lon": -84.4331119
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Restaurante Deportivo Tres Puentes"
+  }
+},
+{
+  "type": "way",
+  "id": 1447308706,
+  "center": {
+    "lat": 10.0395339,
+    "lon": -84.4279378
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes",
+    "name": "Hamburguesas La Mandarina"
+  }
+},
+{
+  "type": "way",
+  "id": 1451218089,
+  "center": {
+    "lat": 10.0536550,
+    "lon": -84.4337048
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes",
+    "cuisine": "pizza",
+    "name": "Pizzería Varo's"
+  }
+},
+{
+  "type": "way",
+  "id": 1455706892,
+  "center": {
+    "lat": 10.0509446,
+    "lon": -84.4445922
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "La Pataqueña"
+  }
+},
+{
+  "type": "way",
+  "id": 1455706900,
+  "center": {
+    "lat": 10.0542882,
+    "lon": -84.4352593
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "japanese"
+  }
+},
+{
+  "type": "way",
+  "id": 1455706904,
+  "center": {
+    "lat": 10.1080667,
+    "lon": -84.4595585
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Crispy Wings"
+  }
+},
+{
+  "type": "way",
+  "id": 1466156486,
+  "center": {
+    "lat": 10.0933920,
+    "lon": -84.4745767
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Ola Ola Cevichito"
+  }
+},
+{
+  "type": "way",
+  "id": 1466156487,
+  "center": {
+    "lat": 10.0952905,
+    "lon": -84.4686210
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1481213980,
+  "center": {
+    "lat": 10.1029727,
+    "lon": -84.3836879
+  },
+  "tags": {
+    "addr:city": "Naranjo",
+    "amenity": "fast_food",
+    "building": "yes",
+    "cuisine": "burger;chicken;american;fries;sandwich;wings;friture",
+    "diet:non-vegetarian": "yes",
+    "drive_through": "no",
+    "name": "Comidas Rápidas Los Pilones",
+    "name:it": "Fast Food Los Pilones",
+    "opening_hours": "Mo-Su 17:30-00:00"
+  }
+},
+{
+  "type": "way",
+  "id": 1481225486,
+  "center": {
+    "lat": 10.1030623,
+    "lon": -84.3839119
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Cafetería y Restaurante Sabores",
+    "name:it": "Caffetteria e Ristorante Sabores"
+  }
+},
+{
+  "type": "way",
+  "id": 1481572195,
+  "center": {
+    "lat": 10.1023984,
+    "lon": -84.3833954
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes",
+    "cuisine": "pizza"
+  }
+},
+{
+  "type": "way",
+  "id": 1484743857,
+  "center": {
+    "lat": 10.0979339,
+    "lon": -84.3803945
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Soda Umaña"
+  }
+},
+{
+  "type": "way",
+  "id": 1485766851,
+  "center": {
+    "lat": 9.9834776,
+    "lon": -84.4110635
+  },
+  "tags": {
+    "addr:city": "Mercedes",
+    "addr:postcode": "20503",
+    "addr:street": "Calle Plancillo",
+    "amenity": "cafe",
+    "building": "yes",
+    "cuisine": "costarricense;café",
+    "name": "Entre Cafetales y Orquídeas",
+    "opening_hours": "Th-Su 08:00-18:00",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1485906142,
+  "center": {
+    "lat": 10.0967975,
+    "lon": -84.4075096
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1486742742,
+  "center": {
+    "lat": 10.0776561,
+    "lon": -84.4694113
+  },
+  "tags": {
+    "amenity": "food_court",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1499786559,
+  "center": {
+    "lat": 9.9807364,
+    "lon": -84.3813026
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "branch": "Atenas",
+    "brand": "Papa John's",
+    "brand:wikidata": "Q2759586",
+    "building": "yes",
+    "cuisine": "pizza",
+    "drive_through": "no",
+    "name": "Papa John's",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1526289987,
+  "center": {
+    "lat": 10.1356275,
+    "lon": -84.5097595
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1535067052,
+  "center": {
+    "lat": 10.0712959,
+    "lon": -84.4887048
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Los Leños"
+  }
+},
+{
+  "type": "way",
+  "id": 1535067057,
+  "center": {
+    "lat": 10.0705833,
+    "lon": -84.4878959
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Chepper's"
+  }
+},
+{
+  "type": "way",
+  "id": 1535081046,
+  "center": {
+    "lat": 10.0545954,
+    "lon": -84.4350868
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1535081049,
+  "center": {
+    "lat": 10.0543365,
+    "lon": -84.4351437
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1535095073,
+  "center": {
+    "lat": 10.0822233,
+    "lon": -84.4681063
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "name": "Ba La Chiringuina"
+  }
+},
+{
+  "type": "way",
+  "id": 1557281838,
+  "center": {
+    "lat": 10.0269614,
+    "lon": -84.4181461
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes",
+    "name": "Comidas Rápidass Las 3 Hermanas"
+  }
+},
+{
+  "type": "way",
+  "id": 1560862174,
+  "center": {
+    "lat": 10.1821909,
+    "lon": -84.3931649
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "italian"
+  }
+},
+{
+  "type": "way",
+  "id": 1565036628,
+  "center": {
+    "lat": 10.0554786,
+    "lon": -84.4317392
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "branch": "Palmares",
+    "building": "yes",
+    "cuisine": "pizza",
+    "name": "Pizza Pata",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1565040570,
+  "center": {
+    "lat": 10.0558073,
+    "lon": -84.4420958
+  },
+  "tags": {
+    "amenity": "fast_food",
+    "building": "yes",
+    "name": "Comida Callejera El Barrio"
+  }
+},
+{
+  "type": "way",
+  "id": 1568110544,
+  "center": {
+    "lat": 10.1143400,
+    "lon": -84.5157549
+  },
+  "tags": {
+    "amenity": "bar",
+    "building": "yes",
+    "name": "Bar San Miguel"
+  }
+}
+
+  ]
+}
