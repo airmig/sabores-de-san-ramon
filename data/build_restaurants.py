@@ -2316,7 +2316,7 @@ with open("data/restaurants.json", "w") as f:
 with open("data/restaurants.js", "w") as f:
     f.write("window.SAN_RAMON_RESTAURANTS = " + json.dumps(items, ensure_ascii=False) + ";\n")
 
-print(f"Total places: {len(items)} (viveros: {sum(1 for x in items if x.get('type') == 'vivero')})")
+print(f"Total places: {len(items)} (viveros: {sum(1 for x in items if x.get('type') == 'vivero')}, gasolineras: {sum(1 for x in items if x.get('type') == 'gasolinera')})")
 print("With phone/express:", sum(1 for x in items if x.get("phone") or x.get("delivery") or x.get("whatsapp")))
 print("With menu items:", sum(1 for x in items if x.get("menu")))
 print("With schedule:", sum(1 for x in items if x.get("hours")))

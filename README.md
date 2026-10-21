@@ -1,10 +1,10 @@
 # Sabores de San Ramón
 
-Mapa interactivo de restaurantes, sodas, cafeterías, bares y viveros de San Ramón, Alajuela, Costa Rica.
+Mapa interactivo de restaurantes, sodas, cafeterías, bares, viveros y gasolineras de San Ramón, Alajuela, Costa Rica.
 
 **Ver el mapa:** https://airmig.github.io/sabores-de-san-ramon/
 
-- Filtro por tipo: Todos, Restaurantes o Viveros.
+- Filtro por tipo: Todos, Restaurantes, Viveros o Gasolineras.
 - Filtros por categoría, distrito, abierto ahora, con teléfono y con menú.
 - Ficha de cada lugar con dirección, teléfono, horario, calificación y enlaces a Waze y Google Maps.
 

@@ -4,7 +4,8 @@ construida por build_restaurants.py:
 
 * corrige coordenadas, horarios, calificaciones y teléfonos faltantes de los lugares existentes;
 * elimina los cerrados permanentemente y los duplicados;
-* agrega restaurantes nuevos encontrados por distrito y los viveros (type = "vivero").
+* agrega restaurantes nuevos encontrados por distrito, los viveros (type = "vivero")
+  y las gasolineras (type = "gasolinera").
 """
 import json, math, os, re, unicodedata, difflib
 
@@ -77,6 +78,8 @@ def _description(o, district):
             return (f"{what} fuera del cantón de San Ramón, a unos {o.get('distanceKm', '?')} km del centro. "
                     "Datos verificados en Google Maps.")
         return f"{what} en el distrito de {district}, San Ramón. Datos verificados en Google Maps."
+    if o["type"] == "gasolinera":
+        return f"Gasolinera en el distrito de {district}, San Ramón. Datos verificados en Google Maps."
     return f"{gcat or 'Restaurante'} en el distrito de {district}, San Ramón. Datos verificados en Google Maps."
 
 
@@ -85,7 +88,7 @@ def apply_google_verification(items, get_district, path=None):
     updates, removes = data["updates"], data["removes"]
     src_tag = f"Google Maps ({data.get('checked', '')})".replace(" ()", "")
     stats = {"verificados": 0, "sin_verificar": 0, "eliminados": 0, "duplicados": 0,
-             "nuevos_restaurantes": 0, "viveros": 0}
+             "nuevos_restaurantes": 0, "viveros": 0, "gasolineras": 0}
 
     out = []
     for it in items:
@@ -165,7 +168,7 @@ def apply_google_verification(items, get_district, path=None):
         if a.get("distanceKm") is not None:
             obj["distanceKm"] = a["distanceKm"]
         deduped.append(obj)
-        stats["viveros" if a["type"] == "vivero" else "nuevos_restaurantes"] += 1
+        stats[{"vivero": "viveros", "gasolinera": "gasolineras"}.get(a["type"], "nuevos_restaurantes")] += 1
 
     print("Verificación Google Maps:", stats)
     return deduped

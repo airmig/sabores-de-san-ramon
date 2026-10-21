@@ -5700,6 +5700,99 @@
     "infoScore": 7
   },
   {
+    "name": "Gasolinera Chachagua",
+    "type": "gasolinera",
+    "category": "Gasolineras",
+    "address": "702, Provincia de Alajuela, San Ramón",
+    "district": "Peñas Blancas",
+    "lat": 10.403326,
+    "lng": -84.594918,
+    "coordsApprox": false,
+    "phone": "+506 2481-0404",
+    "delivery": null,
+    "whatsapp": null,
+    "hours": {
+      "Wed": "05:00–22:00",
+      "Thu": "05:00–22:00",
+      "Fri": "05:00–22:00",
+      "Sat": "05:00–22:00",
+      "Sun": "05:00–22:00",
+      "Mon": "05:00–22:00",
+      "Tue": "05:00–22:00"
+    },
+    "rating": 4.4,
+    "votes": 117,
+    "description": "Gasolinera en el distrito de Peñas Blancas, San Ramón. Datos verificados en Google Maps.",
+    "menu": [],
+    "website": null,
+    "source": "Google Maps (2026-10-21)",
+    "verified": true,
+    "id": 141,
+    "infoScore": 7
+  },
+  {
+    "name": "Gasolinera Chury",
+    "type": "gasolinera",
+    "category": "Gasolineras",
+    "address": "Provincia de Alajuela, San Ramón, La Unión",
+    "district": "San Rafael",
+    "lat": 10.082049,
+    "lng": -84.469356,
+    "coordsApprox": false,
+    "phone": "+506 2445-3645",
+    "delivery": null,
+    "whatsapp": null,
+    "hours": {
+      "Wed": "00:00–23:59",
+      "Thu": "00:00–23:59",
+      "Fri": "00:00–23:59",
+      "Sat": "00:00–23:59",
+      "Sun": "00:00–23:59",
+      "Mon": "00:00–23:59",
+      "Tue": "00:00–23:59"
+    },
+    "rating": 4.1,
+    "votes": 482,
+    "description": "Gasolinera en el distrito de San Rafael, San Ramón. Datos verificados en Google Maps.",
+    "menu": [],
+    "website": null,
+    "source": "Google Maps (2026-10-21)",
+    "verified": true,
+    "id": 142,
+    "infoScore": 7
+  },
+  {
+    "name": "Gasolinera Sky",
+    "type": "gasolinera",
+    "category": "Gasolineras",
+    "address": "C. Magallanes, Provincia de Alajuela, San Ramón, 20202",
+    "district": "Santiago",
+    "lat": 10.067171,
+    "lng": -84.499458,
+    "coordsApprox": false,
+    "phone": "+506 8946-6220",
+    "delivery": null,
+    "whatsapp": null,
+    "hours": {
+      "Wed": "00:00–23:59",
+      "Thu": "00:00–23:59",
+      "Fri": "00:00–23:59",
+      "Sat": "00:00–23:59",
+      "Sun": "00:00–23:59",
+      "Mon": "00:00–23:59",
+      "Tue": "00:00–23:59"
+    },
+    "rating": 4.4,
+    "votes": 35,
+    "description": "Gasolinera en el distrito de Santiago, San Ramón. Datos verificados en Google Maps.",
+    "menu": [],
+    "website": null,
+    "source": "Google Maps (2026-10-21)",
+    "verified": true,
+    "id": 143,
+    "infoScore": 7
+  },
+  {
     "name": "Good Boys Bar Restaurante",
     "category": "Bares y Cervecerías",
     "address": "20201, Provincia de Alajuela, San Ramón, 20201",
@@ -5728,7 +5821,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Good Boys Bar Restaurante",
-    "id": 141,
+    "id": 144,
     "infoScore": 7
   },
   {
@@ -5759,7 +5852,7 @@
     "website": "https://www.instagram.com/guapilcafe/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 142,
+    "id": 145,
     "infoScore": 7
   },
   {
@@ -5790,7 +5883,7 @@
     "website": "https://www.facebook.com/HaciendaLosLagosSanRamon?mibextid=ZbWKwL",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 143,
+    "id": 146,
     "infoScore": 7
   },
   {
@@ -5822,7 +5915,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Hamburguesas MarKony",
-    "id": 144,
+    "id": 147,
     "infoScore": 7
   },
   {
@@ -5869,7 +5962,38 @@
     "source": "OSM + Web verificada",
     "type": "restaurante",
     "verified": false,
-    "id": 145,
+    "id": 148,
+    "infoScore": 7
+  },
+  {
+    "name": "JSM SAN RAMON GASOLINERA",
+    "type": "gasolinera",
+    "category": "Gasolineras",
+    "address": "3GC6+8XW, Provincia de Alajuela, Santiago, El Alto",
+    "district": "Santiago",
+    "lat": 10.070851,
+    "lng": -84.48755,
+    "coordsApprox": false,
+    "phone": "+506 2447-6808",
+    "delivery": null,
+    "whatsapp": null,
+    "hours": {
+      "Wed": "00:00–23:59",
+      "Thu": "00:00–23:59",
+      "Fri": "00:00–23:59",
+      "Sat": "00:00–23:59",
+      "Sun": "00:00–23:59",
+      "Mon": "00:00–23:59",
+      "Tue": "00:00–23:59"
+    },
+    "rating": 4.2,
+    "votes": 430,
+    "description": "Gasolinera en el distrito de Santiago, San Ramón. Datos verificados en Google Maps.",
+    "menu": [],
+    "website": null,
+    "source": "Google Maps (2026-10-21)",
+    "verified": true,
+    "id": 149,
     "infoScore": 7
   },
   {
@@ -5914,7 +6038,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "K-harina",
-    "id": 146,
+    "id": 150,
     "infoScore": 7
   },
   {
@@ -5945,7 +6069,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 147,
+    "id": 151,
     "infoScore": 7
   },
   {
@@ -5976,7 +6100,7 @@
     "website": "https://www.instagram.com/soda_lachocita?igsh=cTMyaG5pNDB3OTAw",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 148,
+    "id": 152,
     "infoScore": 7
   },
   {
@@ -6007,7 +6131,7 @@
     "website": "http://www.facebook.com/lachozaemilce/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 149,
+    "id": 153,
     "infoScore": 7
   },
   {
@@ -6039,7 +6163,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "La Esquina de Quillo- Bar & Marisquería",
-    "id": 150,
+    "id": 154,
     "infoScore": 7
   },
   {
@@ -6070,7 +6194,7 @@
     "website": "https://instagram.com/lafiestadelsabor_?utm_medium=copy_link",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 151,
+    "id": 155,
     "infoScore": 7
   },
   {
@@ -6101,7 +6225,7 @@
     "website": "https://www.facebook.com/share/1F824Pttsd/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 152,
+    "id": 156,
     "infoScore": 7
   },
   {
@@ -6132,7 +6256,7 @@
     "website": "https://www.facebook.com/people/La-Monche%C3%B1a/100063643056471/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 153,
+    "id": 157,
     "infoScore": 7
   },
   {
@@ -6163,7 +6287,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 154,
+    "id": 158,
     "infoScore": 7
   },
   {
@@ -6194,7 +6318,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 155,
+    "id": 159,
     "infoScore": 7
   },
   {
@@ -6225,7 +6349,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 156,
+    "id": 160,
     "infoScore": 7
   },
   {
@@ -6268,7 +6392,7 @@
     "source": "OSM + Web verificada",
     "type": "restaurante",
     "verified": false,
-    "id": 157,
+    "id": 161,
     "infoScore": 7
   },
   {
@@ -6300,7 +6424,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Las Tinajitas",
-    "id": 158,
+    "id": 162,
     "infoScore": 7
   },
   {
@@ -6331,7 +6455,7 @@
     "website": "https://www.instagram.com/viveros_gratia/profilecard/?igsh=MW90MGQydTI3OWt5MQ==",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 159,
+    "id": 163,
     "infoScore": 7
   },
   {
@@ -6362,7 +6486,7 @@
     "website": "https://www.instagram.com/lipardino/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 160,
+    "id": 164,
     "infoScore": 7
   },
   {
@@ -6393,7 +6517,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 161,
+    "id": 165,
     "infoScore": 7
   },
   {
@@ -6424,7 +6548,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 162,
+    "id": 166,
     "infoScore": 7
   },
   {
@@ -6455,7 +6579,7 @@
     "website": "https://www.busqueaki.info/marisqueria-y-pizzeria-la-cima",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 163,
+    "id": 167,
     "infoScore": 7
   },
   {
@@ -6486,7 +6610,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 164,
+    "id": 168,
     "infoScore": 7
   },
   {
@@ -6517,7 +6641,38 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 165,
+    "id": 169,
+    "infoScore": 7
+  },
+  {
+    "name": "Moligas",
+    "type": "gasolinera",
+    "category": "Gasolineras",
+    "address": "500 metros norte del Hospital, Provincia de Alajuela, San Ramón, 4250",
+    "district": "San Juan",
+    "lat": 10.09866,
+    "lng": -84.468821,
+    "coordsApprox": false,
+    "phone": "+506 2445-2000",
+    "delivery": null,
+    "whatsapp": null,
+    "hours": {
+      "Wed": "00:00–23:59",
+      "Thu": "00:00–23:59",
+      "Fri": "00:00–23:59",
+      "Sat": "00:00–23:59",
+      "Sun": "00:00–23:59",
+      "Mon": "00:00–23:59",
+      "Tue": "00:00–23:59"
+    },
+    "rating": 4.3,
+    "votes": 809,
+    "description": "Gasolinera en el distrito de San Juan, San Ramón. Datos verificados en Google Maps.",
+    "menu": [],
+    "website": "http://moligas.com/",
+    "source": "Google Maps (2026-10-21)",
+    "verified": true,
+    "id": 170,
     "infoScore": 7
   },
   {
@@ -6548,7 +6703,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 166,
+    "id": 171,
     "infoScore": 7
   },
   {
@@ -6579,7 +6734,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 167,
+    "id": 172,
     "infoScore": 7
   },
   {
@@ -6611,7 +6766,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Nanas' Coffee and kitchen",
-    "id": 168,
+    "id": 173,
     "infoScore": 7
   },
   {
@@ -6643,7 +6798,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 4.3,
-    "id": 169,
+    "id": 174,
     "infoScore": 7
   },
   {
@@ -6674,7 +6829,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 170,
+    "id": 175,
     "infoScore": 7
   },
   {
@@ -6705,7 +6860,7 @@
     "website": "https://es-es.facebook.com/Panader%C3%ADa-la-Fama-141241999361699/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 171,
+    "id": 176,
     "infoScore": 7
   },
   {
@@ -6736,7 +6891,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 172,
+    "id": 177,
     "infoScore": 7
   },
   {
@@ -6767,7 +6922,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 173,
+    "id": 178,
     "infoScore": 7
   },
   {
@@ -6798,7 +6953,7 @@
     "website": "https://www.facebook.com/share/1Eqmbg9yDs/?mibextid=wwXIfr",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 174,
+    "id": 179,
     "infoScore": 7
   },
   {
@@ -6830,7 +6985,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Pizza papatonis San Ramón",
-    "id": 175,
+    "id": 180,
     "infoScore": 7
   },
   {
@@ -6861,7 +7016,7 @@
     "website": "http://store72484331.company.site/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 176,
+    "id": 181,
     "infoScore": 7
   },
   {
@@ -6893,7 +7048,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Lobitos Pizza",
-    "id": 177,
+    "id": 182,
     "infoScore": 7
   },
   {
@@ -6925,7 +7080,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Pizza Olivera San Ramón",
-    "id": 178,
+    "id": 183,
     "infoScore": 7
   },
   {
@@ -6956,7 +7111,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 179,
+    "id": 184,
     "infoScore": 7
   },
   {
@@ -6988,7 +7143,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Pizzeria Capricho",
-    "id": 180,
+    "id": 185,
     "infoScore": 7
   },
   {
@@ -7019,7 +7174,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 181,
+    "id": 186,
     "infoScore": 7
   },
   {
@@ -7050,7 +7205,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 182,
+    "id": 187,
     "infoScore": 7
   },
   {
@@ -7081,7 +7236,7 @@
     "website": "https://www.facebook.com/pizzagrace/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 183,
+    "id": 188,
     "infoScore": 7
   },
   {
@@ -7112,7 +7267,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 184,
+    "id": 189,
     "infoScore": 7
   },
   {
@@ -7143,7 +7298,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 185,
+    "id": 190,
     "infoScore": 7
   },
   {
@@ -7174,7 +7329,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 186,
+    "id": 191,
     "infoScore": 7
   },
   {
@@ -7205,7 +7360,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 187,
+    "id": 192,
     "infoScore": 7
   },
   {
@@ -7236,7 +7391,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 188,
+    "id": 193,
     "infoScore": 7
   },
   {
@@ -7267,7 +7422,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 189,
+    "id": 194,
     "infoScore": 7
   },
   {
@@ -7298,7 +7453,7 @@
     "website": "https://www.facebook.com/profile.php?id=61557448838417&mibextid=ZbWKwL",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 190,
+    "id": 195,
     "infoScore": 7
   },
   {
@@ -7330,7 +7485,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Restaurante Kalhua's",
-    "id": 191,
+    "id": 196,
     "infoScore": 7
   },
   {
@@ -7361,7 +7516,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 192,
+    "id": 197,
     "infoScore": 7
   },
   {
@@ -7392,7 +7547,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 193,
+    "id": 198,
     "infoScore": 7
   },
   {
@@ -7423,7 +7578,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 194,
+    "id": 199,
     "infoScore": 7
   },
   {
@@ -7454,7 +7609,7 @@
     "website": "https://restauranteparrillerocr.com/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 195,
+    "id": 200,
     "infoScore": 7
   },
   {
@@ -7485,7 +7640,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 196,
+    "id": 201,
     "infoScore": 7
   },
   {
@@ -7517,7 +7672,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Restaurante Senderos",
-    "id": 197,
+    "id": 202,
     "infoScore": 7
   },
   {
@@ -7548,7 +7703,7 @@
     "website": "https://www.instagram.com/tempo_restaurante/?hl=en",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 198,
+    "id": 203,
     "infoScore": 7
   },
   {
@@ -7579,7 +7734,7 @@
     "website": "https://m.facebook.com/100034465754161/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 199,
+    "id": 204,
     "infoScore": 7
   },
   {
@@ -7611,7 +7766,69 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Scarchas Cafetería Y Heladería",
-    "id": 200,
+    "id": 205,
+    "infoScore": 7
+  },
+  {
+    "name": "Servicentro Santamaria",
+    "type": "gasolinera",
+    "category": "Gasolineras",
+    "address": "3GMH+2X4, Carr. Vieja Naranjo-San Ramón, Provincia de Alajuela, San Ramón, La Unión",
+    "district": "San Ramón",
+    "lat": 10.082517,
+    "lng": -84.470048,
+    "coordsApprox": false,
+    "phone": "+506 2102-7542",
+    "delivery": null,
+    "whatsapp": null,
+    "hours": {
+      "Wed": "00:00–23:59",
+      "Thu": "00:00–23:59",
+      "Fri": "00:00–23:59",
+      "Sat": "00:00–23:59",
+      "Sun": "00:00–23:59",
+      "Mon": "00:00–23:59",
+      "Tue": "00:00–23:59"
+    },
+    "rating": 4.4,
+    "votes": 486,
+    "description": "Gasolinera en el distrito de San Ramón, San Ramón. Datos verificados en Google Maps.",
+    "menu": [],
+    "website": null,
+    "source": "Google Maps (2026-10-21)",
+    "verified": true,
+    "id": 206,
+    "infoScore": 7
+  },
+  {
+    "name": "Servicentro Santamaría San Juan",
+    "type": "gasolinera",
+    "category": "Gasolineras",
+    "address": "4G2M+X9V, Provincia de Alajuela, San Ramón",
+    "district": "San Juan",
+    "lat": 10.102499,
+    "lng": -84.466565,
+    "coordsApprox": false,
+    "phone": "+506 6000-6425",
+    "delivery": null,
+    "whatsapp": null,
+    "hours": {
+      "Wed": "05:00–22:00",
+      "Thu": "05:00–22:00",
+      "Fri": "05:00–22:00",
+      "Sat": "05:00–22:00",
+      "Sun": "05:00–22:00",
+      "Mon": "05:00–22:00",
+      "Tue": "05:00–22:00"
+    },
+    "rating": 4.4,
+    "votes": 351,
+    "description": "Gasolinera en el distrito de San Juan, San Ramón. Datos verificados en Google Maps.",
+    "menu": [],
+    "website": null,
+    "source": "Google Maps (2026-10-21)",
+    "verified": true,
+    "id": 207,
     "infoScore": 7
   },
   {
@@ -7643,7 +7860,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Sikan",
-    "id": 201,
+    "id": 208,
     "infoScore": 7
   },
   {
@@ -7675,7 +7892,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Soda Alta Vista",
-    "id": 202,
+    "id": 209,
     "infoScore": 7
   },
   {
@@ -7706,7 +7923,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 203,
+    "id": 210,
     "infoScore": 7
   },
   {
@@ -7737,7 +7954,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 204,
+    "id": 211,
     "infoScore": 7
   },
   {
@@ -7768,7 +7985,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 205,
+    "id": 212,
     "infoScore": 7
   },
   {
@@ -7799,7 +8016,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 206,
+    "id": 213,
     "infoScore": 7
   },
   {
@@ -7831,7 +8048,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Soda Doña Luisa",
-    "id": 207,
+    "id": 214,
     "infoScore": 7
   },
   {
@@ -7862,7 +8079,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 208,
+    "id": 215,
     "infoScore": 7
   },
   {
@@ -7894,7 +8111,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Soda Katy",
-    "id": 209,
+    "id": 216,
     "infoScore": 7
   },
   {
@@ -7925,7 +8142,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 210,
+    "id": 217,
     "infoScore": 7
   },
   {
@@ -7956,7 +8173,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 211,
+    "id": 218,
     "infoScore": 7
   },
   {
@@ -7987,7 +8204,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 212,
+    "id": 219,
     "infoScore": 7
   },
   {
@@ -8018,7 +8235,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 213,
+    "id": 220,
     "infoScore": 7
   },
   {
@@ -8050,7 +8267,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "La Negrita",
-    "id": 214,
+    "id": 221,
     "infoScore": 7
   },
   {
@@ -8081,7 +8298,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 215,
+    "id": 222,
     "infoScore": 7
   },
   {
@@ -8112,7 +8329,7 @@
     "website": "https://www.facebook.com/share/1YxojqkA5G/?mibextid=wwXIfr",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 216,
+    "id": 223,
     "infoScore": 7
   },
   {
@@ -8143,7 +8360,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 217,
+    "id": 224,
     "infoScore": 7
   },
   {
@@ -8174,7 +8391,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 218,
+    "id": 225,
     "infoScore": 7
   },
   {
@@ -8205,7 +8422,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 219,
+    "id": 226,
     "infoScore": 7
   },
   {
@@ -8236,7 +8453,7 @@
     "website": "http://www.sodaceci.com/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 220,
+    "id": 227,
     "infoScore": 7
   },
   {
@@ -8267,7 +8484,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 221,
+    "id": 228,
     "infoScore": 7
   },
   {
@@ -8299,7 +8516,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Soda eliette",
-    "id": 222,
+    "id": 229,
     "infoScore": 7
   },
   {
@@ -8330,7 +8547,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 223,
+    "id": 230,
     "infoScore": 7
   },
   {
@@ -8362,7 +8579,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Soda la ventanita De Jeanneth",
-    "id": 224,
+    "id": 231,
     "infoScore": 7
   },
   {
@@ -8393,7 +8610,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 225,
+    "id": 232,
     "infoScore": 7
   },
   {
@@ -8424,7 +8641,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 226,
+    "id": 233,
     "infoScore": 7
   },
   {
@@ -8455,7 +8672,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 227,
+    "id": 234,
     "infoScore": 7
   },
   {
@@ -8487,7 +8704,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "TATO FUSION & GRILL",
-    "id": 228,
+    "id": 235,
     "infoScore": 7
   },
   {
@@ -8518,7 +8735,7 @@
     "website": "https://www.instagram.com/tbs.thebreadstudio.cr?igsh=MTJuYnZkaXFnYXhxdg%3D%3D&utm_source=qr",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 229,
+    "id": 236,
     "infoScore": 7
   },
   {
@@ -8549,7 +8766,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 230,
+    "id": 237,
     "infoScore": 7
   },
   {
@@ -8582,7 +8799,7 @@
     "website": "https://www.facebook.com/tacossanramon/?locale=es_LA",
     "verified": true,
     "googleName": "Tako's Street Food San Ramón",
-    "id": 231,
+    "id": 238,
     "infoScore": 7
   },
   {
@@ -8613,7 +8830,7 @@
     "website": "http://www.facebook.com/terrzaza86restaurante",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 232,
+    "id": 239,
     "infoScore": 7
   },
   {
@@ -8644,7 +8861,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 233,
+    "id": 240,
     "infoScore": 7
   },
   {
@@ -8676,7 +8893,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "THE HOUSE",
-    "id": 234,
+    "id": 241,
     "infoScore": 7
   },
   {
@@ -8708,7 +8925,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Tostao Ventanita Colombiana",
-    "id": 235,
+    "id": 242,
     "infoScore": 7
   },
   {
@@ -8739,7 +8956,7 @@
     "website": "https://www.instagram.com/victoria_restaurantepizzeria?stkn=ZG0yZDJhd2FtZTFk&utm_source=qr",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 236,
+    "id": 243,
     "infoScore": 7
   },
   {
@@ -8770,7 +8987,7 @@
     "website": "https://www.facebook.com/profile.php?id=100095159892978&mibextid=ZbWKwL",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 237,
+    "id": 244,
     "infoScore": 7
   },
   {
@@ -8802,7 +9019,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 5.2,
-    "id": 238,
+    "id": 245,
     "infoScore": 7
   },
   {
@@ -8834,7 +9051,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 5.5,
-    "id": 239,
+    "id": 246,
     "infoScore": 7
   },
   {
@@ -8866,7 +9083,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 6.5,
-    "id": 240,
+    "id": 247,
     "infoScore": 7
   },
   {
@@ -8898,7 +9115,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 7.1,
-    "id": 241,
+    "id": 248,
     "infoScore": 7
   },
   {
@@ -8930,7 +9147,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 21.3,
-    "id": 242,
+    "id": 249,
     "infoScore": 7
   },
   {
@@ -8962,7 +9179,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 31.4,
-    "id": 243,
+    "id": 250,
     "infoScore": 7
   },
   {
@@ -8993,7 +9210,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 244,
+    "id": 251,
     "infoScore": 7
   },
   {
@@ -9024,7 +9241,7 @@
     "website": "http://www.facebook.com/viverops/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 245,
+    "id": 252,
     "infoScore": 7
   },
   {
@@ -9056,7 +9273,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 6.8,
-    "id": 246,
+    "id": 253,
     "infoScore": 7
   },
   {
@@ -9088,7 +9305,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 6.9,
-    "id": 247,
+    "id": 254,
     "infoScore": 7
   },
   {
@@ -9119,7 +9336,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 248,
+    "id": 255,
     "infoScore": 7
   },
   {
@@ -9151,7 +9368,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 6.9,
-    "id": 249,
+    "id": 256,
     "infoScore": 7
   },
   {
@@ -9183,7 +9400,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 21.4,
-    "id": 250,
+    "id": 257,
     "infoScore": 7
   },
   {
@@ -9215,7 +9432,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 6.2,
-    "id": 251,
+    "id": 258,
     "infoScore": 7
   },
   {
@@ -9247,7 +9464,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 6.9,
-    "id": 252,
+    "id": 259,
     "infoScore": 7
   },
   {
@@ -9278,7 +9495,7 @@
     "website": "https://www.facebook.com/viveroornamentalesymas/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 253,
+    "id": 260,
     "infoScore": 7
   },
   {
@@ -9309,7 +9526,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 254,
+    "id": 261,
     "infoScore": 7
   },
   {
@@ -9341,7 +9558,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 46.1,
-    "id": 255,
+    "id": 262,
     "infoScore": 7
   },
   {
@@ -9372,7 +9589,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 256,
+    "id": 263,
     "infoScore": 7
   },
   {
@@ -9404,7 +9621,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 33.0,
-    "id": 257,
+    "id": 264,
     "infoScore": 7
   },
   {
@@ -9436,7 +9653,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 7.1,
-    "id": 258,
+    "id": 265,
     "infoScore": 7
   },
   {
@@ -9468,7 +9685,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 6.3,
-    "id": 259,
+    "id": 266,
     "infoScore": 7
   },
   {
@@ -9500,7 +9717,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 20.6,
-    "id": 260,
+    "id": 267,
     "infoScore": 7
   },
   {
@@ -9531,7 +9748,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 261,
+    "id": 268,
     "infoScore": 7
   },
   {
@@ -9562,7 +9779,7 @@
     "website": "https://www.facebook.com/vidaverdesr/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 262,
+    "id": 269,
     "infoScore": 7
   },
   {
@@ -9593,7 +9810,7 @@
     "website": "https://www.facebook.com/143707258992060/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 263,
+    "id": 270,
     "infoScore": 7
   },
   {
@@ -9625,7 +9842,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 45.6,
-    "id": 264,
+    "id": 271,
     "infoScore": 7
   },
   {
@@ -9657,7 +9874,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 33.2,
-    "id": 265,
+    "id": 272,
     "infoScore": 7
   },
   {
@@ -9689,7 +9906,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 29.9,
-    "id": 266,
+    "id": 273,
     "infoScore": 7
   },
   {
@@ -9720,7 +9937,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 267,
+    "id": 274,
     "infoScore": 7
   },
   {
@@ -9751,7 +9968,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 268,
+    "id": 275,
     "infoScore": 7
   },
   {
@@ -9782,7 +9999,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 269,
+    "id": 276,
     "infoScore": 6
   },
   {
@@ -9813,7 +10030,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 270,
+    "id": 277,
     "infoScore": 6
   },
   {
@@ -9844,7 +10061,7 @@
     "website": "https://www.facebook.com/profile.php?id=100083273442312",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 271,
+    "id": 278,
     "infoScore": 6
   },
   {
@@ -9887,7 +10104,7 @@
     "source": "OSM + Web verificada",
     "type": "restaurante",
     "verified": false,
-    "id": 272,
+    "id": 279,
     "infoScore": 6
   },
   {
@@ -9918,7 +10135,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 273,
+    "id": 280,
     "infoScore": 6
   },
   {
@@ -9949,7 +10166,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 274,
+    "id": 281,
     "infoScore": 6
   },
   {
@@ -9980,7 +10197,7 @@
     "website": "https://www.facebook.com/profile.php?id=100048743390561",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 275,
+    "id": 282,
     "infoScore": 6
   },
   {
@@ -10004,7 +10221,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 30.0,
-    "id": 276,
+    "id": 283,
     "infoScore": 5
   },
   {
@@ -10028,7 +10245,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "status": "Cerrado temporalmente",
-    "id": 277,
+    "id": 284,
     "infoScore": 5
   },
   {
@@ -10052,7 +10269,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Delicia china el buen sabor",
-    "id": 278,
+    "id": 285,
     "infoScore": 5
   },
   {
@@ -10075,7 +10292,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 279,
+    "id": 286,
     "infoScore": 5
   },
   {
@@ -10098,7 +10315,7 @@
     "website": "https://fincaeducativadonjuan.com/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 280,
+    "id": 287,
     "infoScore": 5
   },
   {
@@ -10121,7 +10338,7 @@
     "website": "http://www.fusionarenal.com/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 281,
+    "id": 288,
     "infoScore": 5
   },
   {
@@ -10144,7 +10361,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 282,
+    "id": 289,
     "infoScore": 5
   },
   {
@@ -10167,7 +10384,7 @@
     "website": "https://www.instagram.com/merakfusion?igsh=cGhzZThtZmVsaGJn&utm_source=qr",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 283,
+    "id": 290,
     "infoScore": 5
   },
   {
@@ -10190,7 +10407,7 @@
     "website": "https://www.facebook.com/Monchyscafeteria?mibextid=ZbWKwL",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 284,
+    "id": 291,
     "infoScore": 5
   },
   {
@@ -10213,7 +10430,7 @@
     "website": "https://l.instagram.com/?u=https%3A%2F%2Fmonsteradeliciosa.ola.click%2F%3Ffbclid%3DPAAaarft8ivUatl9WI5xZ5mseBF1CjWwF9OU-eUzVunh69PVAUqvOAK7EIQhM_aem_AXT_C1D1pNa6wsHdHXl0ARJrq9xCwOEn7akA9SdHdJ50_QyPi8ogQ_Av2ykeubp59gU&e=AT3c_NYyLoqlqZy9QK2YyrUUfWqhE5-p5xHYfI2flxG1RbbcECPpkeD4DCp4qer_OAVW7dN4KtLmpygxaea_J3l9Da9hnICNqg_EiA",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 285,
+    "id": 292,
     "infoScore": 5
   },
   {
@@ -10237,7 +10454,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Pizza Buty's San Ramón",
-    "id": 286,
+    "id": 293,
     "infoScore": 5
   },
   {
@@ -10260,7 +10477,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 287,
+    "id": 294,
     "infoScore": 5
   },
   {
@@ -10283,7 +10500,7 @@
     "website": "http://www.ranchomargot.com/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 288,
+    "id": 295,
     "infoScore": 5
   },
   {
@@ -10307,7 +10524,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Restaurante La Cura",
-    "id": 289,
+    "id": 296,
     "infoScore": 5
   },
   {
@@ -10330,7 +10547,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 290,
+    "id": 297,
     "infoScore": 5
   },
   {
@@ -10353,7 +10570,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 291,
+    "id": 298,
     "infoScore": 5
   },
   {
@@ -10377,7 +10594,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 4.4,
-    "id": 292,
+    "id": 299,
     "infoScore": 5
   },
   {
@@ -10400,7 +10617,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 293,
+    "id": 300,
     "infoScore": 5
   },
   {
@@ -10423,7 +10640,7 @@
     "website": "http://vidamountain.com/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 294,
+    "id": 301,
     "infoScore": 5
   },
   {
@@ -10446,7 +10663,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 295,
+    "id": 302,
     "infoScore": 5
   },
   {
@@ -10469,7 +10686,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 296,
+    "id": 303,
     "infoScore": 5
   },
   {
@@ -10492,7 +10709,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 297,
+    "id": 304,
     "infoScore": 5
   },
   {
@@ -10524,7 +10741,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Taste of Agape",
-    "id": 298,
+    "id": 305,
     "infoScore": 4
   },
   {
@@ -10555,7 +10772,7 @@
     "website": "https://www.facebook.com/profile.php?id=61563094683841&mibextid=ZbWKwL",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 299,
+    "id": 306,
     "infoScore": 4
   },
   {
@@ -10586,7 +10803,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 300,
+    "id": 307,
     "infoScore": 4
   },
   {
@@ -10617,7 +10834,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 301,
+    "id": 308,
     "infoScore": 4
   },
   {
@@ -10648,7 +10865,38 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 302,
+    "id": 309,
+    "infoScore": 4
+  },
+  {
+    "name": "Gasolinera H2M",
+    "type": "gasolinera",
+    "category": "Gasolineras",
+    "address": "8FWG+XWH, Provincia de Alajuela, San Ramón",
+    "district": "San Lorenzo",
+    "lat": 10.347435,
+    "lng": -84.522649,
+    "coordsApprox": false,
+    "phone": null,
+    "delivery": null,
+    "whatsapp": null,
+    "hours": {
+      "Wed": "00:00–23:59",
+      "Thu": "00:00–23:59",
+      "Fri": "00:00–23:59",
+      "Sat": "00:00–23:59",
+      "Sun": "00:00–23:59",
+      "Mon": "00:00–23:59",
+      "Tue": "00:00–23:59"
+    },
+    "rating": 4.4,
+    "votes": 156,
+    "description": "Gasolinera en el distrito de San Lorenzo, San Ramón. Datos verificados en Google Maps.",
+    "menu": [],
+    "website": null,
+    "source": "Google Maps (2026-10-21)",
+    "verified": true,
+    "id": 310,
     "infoScore": 4
   },
   {
@@ -10680,7 +10928,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Maos chicken and wings",
-    "id": 303,
+    "id": 311,
     "infoScore": 4
   },
   {
@@ -10711,7 +10959,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 304,
+    "id": 312,
     "infoScore": 4
   },
   {
@@ -10742,7 +10990,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 305,
+    "id": 313,
     "infoScore": 4
   },
   {
@@ -10773,7 +11021,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 306,
+    "id": 314,
     "infoScore": 4
   },
   {
@@ -10804,7 +11052,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 307,
+    "id": 315,
     "infoScore": 4
   },
   {
@@ -10835,7 +11083,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 308,
+    "id": 316,
     "infoScore": 4
   },
   {
@@ -10867,7 +11115,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Palenque Rio Piedras",
-    "id": 309,
+    "id": 317,
     "infoScore": 4
   },
   {
@@ -10898,7 +11146,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 310,
+    "id": 318,
     "infoScore": 4
   },
   {
@@ -10921,7 +11169,7 @@
     "website": "https://saborartesanal.cr/",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 311,
+    "id": 319,
     "infoScore": 4
   },
   {
@@ -10952,7 +11200,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 312,
+    "id": 320,
     "infoScore": 4
   },
   {
@@ -10983,7 +11231,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 313,
+    "id": 321,
     "infoScore": 4
   },
   {
@@ -11014,7 +11262,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 314,
+    "id": 322,
     "infoScore": 4
   },
   {
@@ -11045,7 +11293,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 315,
+    "id": 323,
     "infoScore": 4
   },
   {
@@ -11076,7 +11324,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 316,
+    "id": 324,
     "infoScore": 4
   },
   {
@@ -11108,7 +11356,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 42.0,
-    "id": 317,
+    "id": 325,
     "infoScore": 4
   },
   {
@@ -11140,7 +11388,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 4.8,
-    "id": 318,
+    "id": 326,
     "infoScore": 4
   },
   {
@@ -11172,7 +11420,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 30.0,
-    "id": 319,
+    "id": 327,
     "infoScore": 4
   },
   {
@@ -11203,7 +11451,7 @@
     "website": "https://linktr.ee/Hojarasca_Plantas",
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 320,
+    "id": 328,
     "infoScore": 3
   },
   {
@@ -11234,7 +11482,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 321,
+    "id": 329,
     "infoScore": 3
   },
   {
@@ -11265,7 +11513,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 322,
+    "id": 330,
     "infoScore": 3
   },
   {
@@ -11296,7 +11544,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 323,
+    "id": 331,
     "infoScore": 3
   },
   {
@@ -11319,7 +11567,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 324,
+    "id": 332,
     "infoScore": 2
   },
   {
@@ -11342,7 +11590,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 325,
+    "id": 333,
     "infoScore": 2
   },
   {
@@ -11366,7 +11614,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "distanceKm": 11.3,
-    "id": 326,
+    "id": 334,
     "infoScore": 2
   },
   {
@@ -11389,7 +11637,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 327,
+    "id": 335,
     "infoScore": 2
   },
   {
@@ -11412,7 +11660,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 328,
+    "id": 336,
     "infoScore": 2
   },
   {
@@ -11436,7 +11684,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Bar y Restaurante La Guaria",
-    "id": 329,
+    "id": 337,
     "infoScore": 2
   },
   {
@@ -11459,7 +11707,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 330,
+    "id": 338,
     "infoScore": 2
   },
   {
@@ -11482,7 +11730,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 331,
+    "id": 339,
     "infoScore": 2
   },
   {
@@ -11505,7 +11753,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 332,
+    "id": 340,
     "infoScore": 2
   },
   {
@@ -11528,7 +11776,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 333,
+    "id": 341,
     "infoScore": 2
   },
   {
@@ -11552,7 +11800,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Bar San Miguel",
-    "id": 334,
+    "id": 342,
     "infoScore": 2
   },
   {
@@ -11576,7 +11824,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Vivencias,",
-    "id": 335,
+    "id": 343,
     "infoScore": 2
   },
   {
@@ -11599,7 +11847,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 336,
+    "id": 344,
     "infoScore": 2
   },
   {
@@ -11623,7 +11871,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Bar la Montaña",
-    "id": 337,
+    "id": 345,
     "infoScore": 2
   },
   {
@@ -11646,7 +11894,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 338,
+    "id": 346,
     "infoScore": 2
   },
   {
@@ -11669,7 +11917,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 339,
+    "id": 347,
     "infoScore": 2
   },
   {
@@ -11692,7 +11940,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 340,
+    "id": 348,
     "infoScore": 2
   },
   {
@@ -11715,7 +11963,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 341,
+    "id": 349,
     "infoScore": 2
   },
   {
@@ -11738,7 +11986,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 342,
+    "id": 350,
     "infoScore": 2
   },
   {
@@ -11761,7 +12009,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 343,
+    "id": 351,
     "infoScore": 2
   },
   {
@@ -11788,7 +12036,7 @@
     "source": "OSM + Web verificada",
     "type": "restaurante",
     "verified": false,
-    "id": 344,
+    "id": 352,
     "infoScore": 2
   },
   {
@@ -11811,7 +12059,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 345,
+    "id": 353,
     "infoScore": 2
   },
   {
@@ -11834,7 +12082,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 346,
+    "id": 354,
     "infoScore": 2
   },
   {
@@ -11857,7 +12105,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 347,
+    "id": 355,
     "infoScore": 2
   },
   {
@@ -11881,7 +12129,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Club de Amigos",
-    "id": 348,
+    "id": 356,
     "infoScore": 2
   },
   {
@@ -11904,7 +12152,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 349,
+    "id": 357,
     "infoScore": 2
   },
   {
@@ -11927,7 +12175,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 350,
+    "id": 358,
     "infoScore": 2
   },
   {
@@ -11950,7 +12198,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 351,
+    "id": 359,
     "infoScore": 2
   },
   {
@@ -11973,7 +12221,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 352,
+    "id": 360,
     "infoScore": 2
   },
   {
@@ -11996,7 +12244,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 353,
+    "id": 361,
     "infoScore": 2
   },
   {
@@ -12019,7 +12267,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 354,
+    "id": 362,
     "infoScore": 2
   },
   {
@@ -12042,7 +12290,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 355,
+    "id": 363,
     "infoScore": 2
   },
   {
@@ -12065,7 +12313,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 356,
+    "id": 364,
     "infoScore": 2
   },
   {
@@ -12088,7 +12336,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 357,
+    "id": 365,
     "infoScore": 2
   },
   {
@@ -12111,7 +12359,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 358,
+    "id": 366,
     "infoScore": 2
   },
   {
@@ -12135,7 +12383,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Jervahos",
-    "id": 359,
+    "id": 367,
     "infoScore": 2
   },
   {
@@ -12159,7 +12407,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Kapricho Sweet",
-    "id": 360,
+    "id": 368,
     "infoScore": 2
   },
   {
@@ -12182,7 +12430,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 361,
+    "id": 369,
     "infoScore": 2
   },
   {
@@ -12205,7 +12453,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 362,
+    "id": 370,
     "infoScore": 2
   },
   {
@@ -12228,7 +12476,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 363,
+    "id": 371,
     "infoScore": 2
   },
   {
@@ -12251,7 +12499,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 364,
+    "id": 372,
     "infoScore": 2
   },
   {
@@ -12275,7 +12523,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "LA RECTA DEL MAIZ",
-    "id": 365,
+    "id": 373,
     "infoScore": 2
   },
   {
@@ -12298,7 +12546,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 366,
+    "id": 374,
     "infoScore": 2
   },
   {
@@ -12321,7 +12569,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 367,
+    "id": 375,
     "infoScore": 2
   },
   {
@@ -12345,7 +12593,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "La Casa del Pastelillo • San Ramón Centro",
-    "id": 368,
+    "id": 376,
     "infoScore": 2
   },
   {
@@ -12368,7 +12616,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 369,
+    "id": 377,
     "infoScore": 2
   },
   {
@@ -12391,7 +12639,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 370,
+    "id": 378,
     "infoScore": 2
   },
   {
@@ -12414,7 +12662,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 371,
+    "id": 379,
     "infoScore": 2
   },
   {
@@ -12438,7 +12686,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Restaurante y cabinas Las Iguanas",
-    "id": 372,
+    "id": 380,
     "infoScore": 2
   },
   {
@@ -12462,7 +12710,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "El Fogón Los Abuelos",
-    "id": 373,
+    "id": 381,
     "infoScore": 2
   },
   {
@@ -12485,7 +12733,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 374,
+    "id": 382,
     "infoScore": 2
   },
   {
@@ -12508,7 +12756,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 375,
+    "id": 383,
     "infoScore": 2
   },
   {
@@ -12531,7 +12779,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 376,
+    "id": 384,
     "infoScore": 2
   },
   {
@@ -12554,7 +12802,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 377,
+    "id": 385,
     "infoScore": 2
   },
   {
@@ -12577,7 +12825,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 378,
+    "id": 386,
     "infoScore": 2
   },
   {
@@ -12600,7 +12848,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 379,
+    "id": 387,
     "infoScore": 2
   },
   {
@@ -12623,7 +12871,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 380,
+    "id": 388,
     "infoScore": 2
   },
   {
@@ -12646,7 +12894,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 381,
+    "id": 389,
     "infoScore": 2
   },
   {
@@ -12669,7 +12917,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 382,
+    "id": 390,
     "infoScore": 2
   },
   {
@@ -12692,7 +12940,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 383,
+    "id": 391,
     "infoScore": 2
   },
   {
@@ -12715,7 +12963,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 384,
+    "id": 392,
     "infoScore": 2
   },
   {
@@ -12738,7 +12986,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 385,
+    "id": 393,
     "infoScore": 2
   },
   {
@@ -12761,7 +13009,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 386,
+    "id": 394,
     "infoScore": 2
   },
   {
@@ -12784,7 +13032,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 387,
+    "id": 395,
     "infoScore": 2
   },
   {
@@ -12807,7 +13055,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 388,
+    "id": 396,
     "infoScore": 2
   },
   {
@@ -12830,7 +13078,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 389,
+    "id": 397,
     "infoScore": 2
   },
   {
@@ -12853,7 +13101,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 390,
+    "id": 398,
     "infoScore": 2
   },
   {
@@ -12876,7 +13124,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 391,
+    "id": 399,
     "infoScore": 2
   },
   {
@@ -12899,7 +13147,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 392,
+    "id": 400,
     "infoScore": 2
   },
   {
@@ -12922,7 +13170,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 393,
+    "id": 401,
     "infoScore": 2
   },
   {
@@ -12945,7 +13193,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 394,
+    "id": 402,
     "infoScore": 2
   },
   {
@@ -12968,7 +13216,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 395,
+    "id": 403,
     "infoScore": 2
   },
   {
@@ -12992,7 +13240,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "status": "Cerrado temporalmente",
-    "id": 396,
+    "id": 404,
     "infoScore": 2
   },
   {
@@ -13015,7 +13263,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 397,
+    "id": 405,
     "infoScore": 2
   },
   {
@@ -13038,7 +13286,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 398,
+    "id": 406,
     "infoScore": 2
   },
   {
@@ -13061,7 +13309,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 399,
+    "id": 407,
     "infoScore": 2
   },
   {
@@ -13084,7 +13332,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 400,
+    "id": 408,
     "infoScore": 2
   },
   {
@@ -13107,7 +13355,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 401,
+    "id": 409,
     "infoScore": 2
   },
   {
@@ -13130,7 +13378,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 402,
+    "id": 410,
     "infoScore": 2
   },
   {
@@ -13153,7 +13401,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 403,
+    "id": 411,
     "infoScore": 2
   },
   {
@@ -13176,7 +13424,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 404,
+    "id": 412,
     "infoScore": 2
   },
   {
@@ -13199,7 +13447,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 405,
+    "id": 413,
     "infoScore": 2
   },
   {
@@ -13222,7 +13470,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 406,
+    "id": 414,
     "infoScore": 2
   },
   {
@@ -13245,7 +13493,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 407,
+    "id": 415,
     "infoScore": 2
   },
   {
@@ -13268,7 +13516,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 408,
+    "id": 416,
     "infoScore": 2
   },
   {
@@ -13291,7 +13539,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 409,
+    "id": 417,
     "infoScore": 2
   },
   {
@@ -13314,7 +13562,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 410,
+    "id": 418,
     "infoScore": 2
   },
   {
@@ -13337,7 +13585,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 411,
+    "id": 419,
     "infoScore": 2
   },
   {
@@ -13360,7 +13608,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 412,
+    "id": 420,
     "infoScore": 2
   },
   {
@@ -13383,7 +13631,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 413,
+    "id": 421,
     "infoScore": 2
   },
   {
@@ -13406,7 +13654,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 414,
+    "id": 422,
     "infoScore": 2
   },
   {
@@ -13429,7 +13677,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 415,
+    "id": 423,
     "infoScore": 2
   },
   {
@@ -13452,7 +13700,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 416,
+    "id": 424,
     "infoScore": 2
   },
   {
@@ -13475,7 +13723,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 417,
+    "id": 425,
     "infoScore": 2
   },
   {
@@ -13498,7 +13746,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 418,
+    "id": 426,
     "infoScore": 2
   },
   {
@@ -13521,7 +13769,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 419,
+    "id": 427,
     "infoScore": 2
   },
   {
@@ -13544,7 +13792,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 420,
+    "id": 428,
     "infoScore": 2
   },
   {
@@ -13567,7 +13815,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 421,
+    "id": 429,
     "infoScore": 2
   },
   {
@@ -13590,7 +13838,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 422,
+    "id": 430,
     "infoScore": 2
   },
   {
@@ -13613,7 +13861,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 423,
+    "id": 431,
     "infoScore": 2
   },
   {
@@ -13636,7 +13884,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 424,
+    "id": 432,
     "infoScore": 2
   },
   {
@@ -13660,7 +13908,7 @@
     "type": "restaurante",
     "verified": true,
     "googleName": "Yoba",
-    "id": 425,
+    "id": 433,
     "infoScore": 2
   },
   {
@@ -13683,7 +13931,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 426,
+    "id": 434,
     "infoScore": 2
   },
   {
@@ -13706,7 +13954,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 427,
+    "id": 435,
     "infoScore": 2
   },
   {
@@ -13729,7 +13977,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 428,
+    "id": 436,
     "infoScore": 1
   },
   {
@@ -13752,7 +14000,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 429,
+    "id": 437,
     "infoScore": 1
   },
   {
@@ -13776,7 +14024,7 @@
     "source": "Google Maps (2026-10-21)",
     "verified": true,
     "status": "Cerrado temporalmente",
-    "id": 430,
+    "id": 438,
     "infoScore": 1
   },
   {
@@ -13799,7 +14047,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 431,
+    "id": 439,
     "infoScore": 1
   },
   {
@@ -13822,7 +14070,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 432,
+    "id": 440,
     "infoScore": 1
   },
   {
@@ -13845,7 +14093,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 433,
+    "id": 441,
     "infoScore": 1
   },
   {
@@ -13868,7 +14116,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 434,
+    "id": 442,
     "infoScore": 1
   },
   {
@@ -13891,7 +14139,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 435,
+    "id": 443,
     "infoScore": 1
   },
   {
@@ -13914,7 +14162,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 436,
+    "id": 444,
     "infoScore": 1
   },
   {
@@ -13937,7 +14185,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 437,
+    "id": 445,
     "infoScore": 1
   },
   {
@@ -13960,7 +14208,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 438,
+    "id": 446,
     "infoScore": 1
   },
   {
@@ -13983,7 +14231,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 439,
+    "id": 447,
     "infoScore": 1
   },
   {
@@ -14006,7 +14254,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 440,
+    "id": 448,
     "infoScore": 1
   },
   {
@@ -14029,7 +14277,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 441,
+    "id": 449,
     "infoScore": 1
   },
   {
@@ -14052,7 +14300,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 442,
+    "id": 450,
     "infoScore": 1
   },
   {
@@ -14075,7 +14323,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 443,
+    "id": 451,
     "infoScore": 1
   },
   {
@@ -14098,7 +14346,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 444,
+    "id": 452,
     "infoScore": 1
   },
   {
@@ -14121,7 +14369,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 445,
+    "id": 453,
     "infoScore": 1
   },
   {
@@ -14144,7 +14392,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 446,
+    "id": 454,
     "infoScore": 1
   },
   {
@@ -14167,7 +14415,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 447,
+    "id": 455,
     "infoScore": 1
   },
   {
@@ -14190,7 +14438,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 448,
+    "id": 456,
     "infoScore": 1
   },
   {
@@ -14213,7 +14461,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 449,
+    "id": 457,
     "infoScore": 1
   },
   {
@@ -14236,7 +14484,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 450,
+    "id": 458,
     "infoScore": 1
   },
   {
@@ -14259,7 +14507,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 451,
+    "id": 459,
     "infoScore": 1
   },
   {
@@ -14282,7 +14530,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 452,
+    "id": 460,
     "infoScore": 1
   },
   {
@@ -14305,7 +14553,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 453,
+    "id": 461,
     "infoScore": 1
   },
   {
@@ -14328,7 +14576,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 454,
+    "id": 462,
     "infoScore": 1
   },
   {
@@ -14351,7 +14599,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 455,
+    "id": 463,
     "infoScore": 1
   },
   {
@@ -14374,7 +14622,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 456,
+    "id": 464,
     "infoScore": 1
   },
   {
@@ -14397,7 +14645,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 457,
+    "id": 465,
     "infoScore": 1
   },
   {
@@ -14420,7 +14668,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 458,
+    "id": 466,
     "infoScore": 1
   },
   {
@@ -14443,7 +14691,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 459,
+    "id": 467,
     "infoScore": 1
   },
   {
@@ -14466,7 +14714,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 460,
+    "id": 468,
     "infoScore": 1
   },
   {
@@ -14489,7 +14737,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 461,
+    "id": 469,
     "infoScore": 1
   },
   {
@@ -14512,7 +14760,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 462,
+    "id": 470,
     "infoScore": 1
   },
   {
@@ -14535,7 +14783,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 463,
+    "id": 471,
     "infoScore": 1
   },
   {
@@ -14558,7 +14806,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 464,
+    "id": 472,
     "infoScore": 1
   },
   {
@@ -14581,7 +14829,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 465,
+    "id": 473,
     "infoScore": 1
   },
   {
@@ -14604,7 +14852,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 466,
+    "id": 474,
     "infoScore": 1
   },
   {
@@ -14627,7 +14875,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 467,
+    "id": 475,
     "infoScore": 1
   },
   {
@@ -14650,7 +14898,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 468,
+    "id": 476,
     "infoScore": 1
   },
   {
@@ -14673,7 +14921,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 469,
+    "id": 477,
     "infoScore": 1
   },
   {
@@ -14696,7 +14944,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 470,
+    "id": 478,
     "infoScore": 1
   },
   {
@@ -14719,7 +14967,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 471,
+    "id": 479,
     "infoScore": 1
   },
   {
@@ -14742,7 +14990,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 472,
+    "id": 480,
     "infoScore": 1
   },
   {
@@ -14765,7 +15013,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 473,
+    "id": 481,
     "infoScore": 1
   },
   {
@@ -14788,7 +15036,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 474,
+    "id": 482,
     "infoScore": 1
   },
   {
@@ -14811,7 +15059,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 475,
+    "id": 483,
     "infoScore": 1
   },
   {
@@ -14834,7 +15082,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 476,
+    "id": 484,
     "infoScore": 1
   },
   {
@@ -14857,7 +15105,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 477,
+    "id": 485,
     "infoScore": 1
   },
   {
@@ -14880,7 +15128,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 478,
+    "id": 486,
     "infoScore": 1
   },
   {
@@ -14903,7 +15151,7 @@
     "source": "Restaurant Guru",
     "type": "restaurante",
     "verified": false,
-    "id": 479,
+    "id": 487,
     "infoScore": 1
   },
   {
@@ -14926,7 +15174,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 480,
+    "id": 488,
     "infoScore": 1
   },
   {
@@ -14949,7 +15197,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 481,
+    "id": 489,
     "infoScore": 1
   },
   {
@@ -14972,7 +15220,7 @@
     "source": "OpenStreetMap",
     "type": "restaurante",
     "verified": false,
-    "id": 482,
+    "id": 490,
     "infoScore": 1
   },
   {
@@ -14995,7 +15243,7 @@
     "website": null,
     "source": "Google Maps (2026-10-21)",
     "verified": true,
-    "id": 483,
+    "id": 491,
     "infoScore": 1
   }
 ]

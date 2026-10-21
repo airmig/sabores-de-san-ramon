@@ -18,14 +18,18 @@
     'Internacional y Fusión':  { color: '#3b82f6', icon: '🍽️' },
     'Heladerías y Postres':    { color: '#f472b6', icon: '🍨' },
     'Mexicana':                { color: '#84cc16', icon: '🌮' },
-    'Viveros y Plantas':       { color: '#15803d', icon: '🪴' }
+    'Viveros y Plantas':       { color: '#15803d', icon: '🪴' },
+    'Gasolineras':             { color: '#475569', icon: '⛽' }
   };
 
   const TYPE_INFO = {
     todos:       { label: 'Todos',        icon: '📍', noun: 'lugares' },
     restaurante: { label: 'Restaurantes', icon: '🍽️', noun: 'restaurantes' },
-    vivero:      { label: 'Viveros',      icon: '🪴', noun: 'viveros' }
+    vivero:      { label: 'Viveros',      icon: '🪴', noun: 'viveros' },
+    gasolinera:  { label: 'Gasolineras',  icon: '⛽', noun: 'gasolineras' }
   };
+  const isAllDay = r => !!r.hours && ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+    .every(k => r.hours[k] === '00:00–23:59');
   const typeOf = r => r.type || 'restaurante';
 
   const DAY_KEYS = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
@@ -211,7 +215,7 @@
     const el = document.getElementById('typeSeg');
     el.innerHTML = Object.entries(TYPE_INFO).map(([k, t]) => `
       <button type="button" role="tab" data-type="${k}" class="${state.type === k ? 'on' : ''}"
-        aria-selected="${state.type === k}"><span class="ti" aria-hidden="true">${t.icon}</span> ${t.label} <small>${counts[k] || 0}</small></button>
+        aria-selected="${state.type === k}"><span class="tl"><span class="ti" aria-hidden="true">${t.icon}</span> <small>${counts[k] || 0}</small></span><span class="tn">${t.label}</span></button>
     `).join('');
     el.querySelectorAll('button').forEach(btn => {
       btn.addEventListener('click', () => {
@@ -238,11 +242,13 @@
     const withMenu = list.filter(r => r.menu && r.menu.length > 0).length;
     const withHours = list.filter(r => r.hours).length;
     const verified = list.filter(r => r.verified).length;
-    const totalLabel = state.type === 'vivero' ? 'Viveros en mapa'
-      : (state.type === 'restaurante' ? 'Restaurantes' : 'Lugares en mapa');
+    const totalLabel = { vivero: 'Viveros en mapa', restaurante: 'Restaurantes', gasolinera: 'Gasolineras' }[state.type]
+      || 'Lugares en mapa';
     const second = state.type === 'vivero'
       ? `<div class="stat-card"><strong>${verified}</strong><span>Verificados</span></div>`
-      : `<div class="stat-card"><strong>${withMenu}</strong><span>Con menú</span></div>`;
+      : (state.type === 'gasolinera'
+        ? `<div class="stat-card"><strong>${list.filter(isAllDay).length}</strong><span>Abiertas 24 h</span></div>`
+        : `<div class="stat-card"><strong>${withMenu}</strong><span>Con menú</span></div>`);
     document.getElementById('stats').innerHTML = `
       <div class="stat-card"><strong>${total}</strong><span>${totalLabel}</span></div>
       ${second}
@@ -319,7 +325,8 @@
       if (q) {
         const hay = [
           r.name, r.category, r.address, r.district, r.description, r.googleName,
-          typeOf(r) === 'vivero' ? 'vivero plantas jardín' : 'restaurante comida',
+          { vivero: 'vivero plantas jardín', gasolinera: 'gasolinera combustible gasolina diésel servicentro' }[typeOf(r)]
+            || 'restaurante comida',
           ...(r.menu || []).map(m => m.item)
         ].join(' ').toLowerCase();
         if (!hay.includes(q)) return false;
@@ -370,14 +377,16 @@
       if (r.status) openBadge = `<span class="badge closed">${r.status}</span>`;
       else if (openState === true) openBadge = `<span class="badge open">● Abierto</span>`;
       else if (openState === false) openBadge = `<span class="badge closed">Cerrado ahora</span>`;
-      const isVivero = typeOf(r) === 'vivero';
+      const kind = typeOf(r);
 
       const phoneBadge = (r.phone || r.whatsapp)
         ? `<span class="badge phone">📞 ${r.phone || r.whatsapp}</span>`
         : (r.delivery ? `<span class="badge phone">🛵 ${r.delivery}</span>` : `<span class="badge">Sin teléfono</span>`);
 
-      const menuBadge = isVivero
+      const menuBadge = kind === 'vivero'
         ? (r.distanceKm ? `<span class="badge">${r.distanceKm} km del centro</span>` : '')
+        : kind === 'gasolinera'
+        ? (isAllDay(r) ? `<span class="badge">⏱ 24 horas</span>` : '')
         : ((r.menu && r.menu.length)
           ? `<span class="badge menu">📋 ${r.menu.length} platos</span>`
           : `<span class="badge">Menú no publicado</span>`);
@@ -434,7 +443,7 @@
 
     const st = CAT_STYLE[r.category] || { color: '#ff7a3d', icon: '🍴' };
     const openState = isOpenNow(r);
-    const isVivero = typeOf(r) === 'vivero';
+    const isFood = typeOf(r) === 'restaurante';
     const openBadge = r.status
       ? `<span class="badge closed">${r.status}</span>`
       : (openState === true
@@ -448,7 +457,7 @@
 
     let actionsHtml = '';
     if (cleanTel) {
-      actionsHtml += `<a class="act-btn primary" href="tel:${cleanTel}">📞 ${isVivero ? 'Llamar' : 'Llamar Express'}</a>`;
+      actionsHtml += `<a class="act-btn primary" href="tel:${cleanTel}">📞 ${isFood ? 'Llamar Express' : 'Llamar'}</a>`;
     }
     if (cleanWa) {
       actionsHtml += `<a class="act-btn wa" href="https://wa.me/${cleanWa}" target="_blank" rel="noopener">💬 WhatsApp</a>`;
@@ -511,9 +520,9 @@
       <div class="action-grid">${actionsHtml}</div>
 
       <div class="sec">
-        <h3>${isVivero ? 'Ubicación y contacto' : 'Ubicación y Express'}</h3>
+        <h3>${isFood ? 'Ubicación y Express' : 'Ubicación y contacto'}</h3>
         <div class="info-row"><span>Dirección</span><span>${r.address}</span></div>
-        <div class="info-row"><span>${isVivero ? 'Teléfono' : 'Teléfono / Express'}</span><span>${r.phone || r.delivery || 'No registrado'}</span></div>
+        <div class="info-row"><span>${isFood ? 'Teléfono / Express' : 'Teléfono'}</span><span>${r.phone || r.delivery || 'No registrado'}</span></div>
         ${r.whatsapp ? `<div class="info-row"><span>WhatsApp Pedidos</span><span>${r.whatsapp}</span></div>` : ''}
         <div class="info-row"><span>Coordenadas</span><span>${r.lat.toFixed(5)}, ${r.lng.toFixed(5)} ${r.coordsApprox ? '(aprox.)' : '(exactas)'}</span></div>
         <div class="info-row"><span>Distancia al Parque Central</span><span>${r.distKm < 1 ? Math.round(r.distKm * 1000) + ' m' : r.distKm.toFixed(1) + ' km'}</span></div>
@@ -522,7 +531,7 @@
           : '⚠ No se pudo confirmar en Google Maps'}</span></div>
       </div>
 
-      ${isVivero ? '' : `<div class="sec">
+      ${!isFood ? '' : `<div class="sec">
         <h3>Menú y Especialidades</h3>
         ${menuHtml}
       </div>`}
